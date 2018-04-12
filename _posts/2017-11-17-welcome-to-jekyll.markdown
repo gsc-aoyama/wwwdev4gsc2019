@@ -1,24 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-11-17 16:14:52 +0900
+title:  "新規学部間協定締結（タイ：シーナカリンウィロート大学）"
+date:   2018-03-20 16:14:52 +0900
 category: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2018年3月14日、地球社会共生学部はシーナカリンウィロート大学インターナショナルカレッジ（Srikarinwirot University, International College for Sustainability Studies: SWUIC）との学部間協定を締結しました。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+シーナカリンウィロート大学はバンコク中心部にキャンパスを構える国立総合大学で、SWUICは、持続可能性（Sustinability）という点に主軸を置き、観光関係を中心に英語で講義を行っている学部です。
 
-Jekyll also offers powerful support for code snippets:
+当日は、地球社会共生学部平澤典男学部長とSWUICのKanda Chaipinyo学部長が協定書にサインを行い、双方の教職員の間で懇談が行われました。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+今回の本学部との協定締結に伴い、SWUICは2019年度より留学派遣先の一つとなります。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
