@@ -14,9 +14,10 @@ GSCでは、東南アジア地域への半期海外留学が必須となって�
 *   [留学生活][life]
 *   [レポート][report]
 *   [留学派遣の継続・中止・途中帰国ガイドライン][guideline]
-*   [FAQ][faq]
+*   [よくあるご質問（FAQ）][faq]
 
 [studyabroad]: {{ '/studyabroad/studyabroad/' | relative_url }}
 [life]: {{ '/studyabroad/life/' | relative_url }}
 [report]: {{ '/studyabroad/report/' | relative_url }}
 [guideline]: {{ '/studyabroad/guideline/' | relative_url }}
+[faq]: {{ '/studyabroad/faq/' | relative_url }}
