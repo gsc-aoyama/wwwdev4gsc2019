@@ -1,2 +1,9 @@
+---
+layout: page
+title: FAQ
+permalink: /studyabroad/faq/
+category: studyabroad
+sort: 5
+---
 
-faq
+{:.list-links.oneline}
