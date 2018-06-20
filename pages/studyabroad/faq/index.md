@@ -1,14 +1,12 @@
 ---
 layout: page
-title: FAQ
+title: よくあるご質問（FAQ）
 permalink: /studyabroad/faq/
 category: studyabroad
 sort: 5
 ---
 
 {:.list-links.oneline}
-
-# よくあるご質問（FAQ）
 
 2019年度入学者用
 
