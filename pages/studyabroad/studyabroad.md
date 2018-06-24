@@ -5,6 +5,8 @@ permalink: /studyabroad/studyabroad/
 category: studyabroad
 sort: 2
 ---
+※2019年度以降の留学制度です
+
 
 ## "Study Abroad" さあ、世界をその目で見てみよう
 
