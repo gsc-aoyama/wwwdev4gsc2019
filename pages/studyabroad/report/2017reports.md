@@ -3,7 +3,7 @@ layout: page
 title: 2017年度前期留学レポート
 permalink: /studyabroad/report/2017reports
 category: studyabroad
-sort: 4
+sort: 6
 ---
 
 {:.list-links.oneline}
