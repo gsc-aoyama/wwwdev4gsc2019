@@ -3,7 +3,7 @@ layout: page
 title: よくあるご質問（FAQ）
 permalink: /studyabroad/faq/
 category: studyabroad
-sort: 5
+sort: 7
 ---
 
 {:.list-links.oneline}
