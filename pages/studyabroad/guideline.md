@@ -3,7 +3,7 @@ layout: page
 title: 留学派遣の継続・中止・途中帰国ガイドライン
 permalink: /studyabroad/guideline/
 category: studyabroad
-sort: 5
+sort: 7
 ---
 
 {:.list-links.oneline}
