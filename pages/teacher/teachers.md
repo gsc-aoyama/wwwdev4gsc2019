@@ -187,6 +187,7 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgsomggy" target="_blank">プロフィール・主要研究業績</a></li>
       <li><a href="https://www.facebook.com/mapconcierge" target="_blank">Facebook</a></li>
       <li><a href="https://twitter.com/mapconcierge" target="_blank">Twitter</a></li>
+      <li><a href="https://github.com/mapconcierge" target="_blank">GitHub</a></li>
     </ul>
   </div>
 </li>
@@ -226,7 +227,7 @@ sort: 2
     <p class="message"><strong>受験生への一言</strong><br />僕の専門はメディア研究です。現在、インターネットがメディアの世界だけでなく、国家や世界のあり方も変えつつあります。個人に着目しても、人生とは結局、体験＝情報ですから、衣食住足りた人々が増加するこれからの社会で、メディアや情報がさらに重要になることは疑いありません。そんなメディアを一緒に考えてみませんか。</p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdggeyoggy" target="_blank">プロフィール・主要研究業績</a></li>
-      <li><a href="https://www.facebook.com/profile.php?id=100012435601461" target="_blank">Facebook</a></li>
+      <!--li><a href="https://www.facebook.com/profile.php?id=100012435601461" target="_blank">Facebook</a></li-->
     </ul>
   </div>
 </li>
@@ -275,12 +276,22 @@ sort: 2
     </ul>
   </div>
 </li>
+
 <li>
   <div class="photo">
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
     <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Greg Khezrnejat</span></p>
+  </div>
+</li>
+
+<li>
+  <div class="photo">
+    <img src="/assets/images/teacher_placeholder.png" alt="">
+  </div>
+  <div class="text">
+    <p class="name"><span class="jp">石塚 彩</span><br><span class="en">Aya Ishizuka</span></p>
   </div>
 </li>
 </ul>
