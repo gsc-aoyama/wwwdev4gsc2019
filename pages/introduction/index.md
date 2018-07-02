@@ -2,7 +2,7 @@
 layout: page
 title: 学部紹介
 lead: 世界の諸問題を、社会科学の力で解決しよう。
-permalink: /www4gsc/introduction/
+permalink: /introduction/
 category: introduction
 sort: 1
 ---
