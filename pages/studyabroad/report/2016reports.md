@@ -7,8 +7,5 @@ sort: 5
 ---
 
 {:.list-links.oneline}
-*   [[2017年度前期留学]][2017reports]
-*   [[2016年度後期留学]][2016reports]
-
-[2017reports]: {{ '/studyabroad/report/2017reports/' | relative_url }}
-[2016reports]: {{ '/studyabroad/report/2016reports/' | relative_url }}
+*   [マヒドン大学_小松美凛.pdf](https://github.com/gsc-aoyama/www4gsc/raw/gh-pages/pages/studyabroad/report/2016/%E3%83%9E%E3%83%92%E3%83%88%E3%82%99%E3%83%B3%E5%A4%A7%E5%AD%A6_%E5%B0%8F%E6%9D%BE%E7%BE%8E%E5%87%9B.pdf)
+*   [マラヤ大学_堀内香子.pdf](https://github.com/gsc-aoyama/www4gsc/raw/gh-pages/pages/studyabroad/report/2016/%E3%83%9E%E3%83%A9%E3%83%A4%E5%A4%A7%E5%AD%A6_%E5%A0%80%E5%86%85%E9%A6%99%E5%AD%90.pdf)
