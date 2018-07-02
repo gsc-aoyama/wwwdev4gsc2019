@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 201年度前期留学レポート
-permalink: /studyabroad/report/2018reports
+title: 2016年度前期留学レポート
+permalink: /studyabroad/report/2016reports
 category: studyabroad
 ---
 
