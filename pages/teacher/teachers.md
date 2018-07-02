@@ -15,7 +15,7 @@ sort: 2
     <img src="/assets/images/v1/2015/04/1f1108fdca3a41ed1c3965841ba655ce-480x720.jpg" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">会田 弘継</span><br><span class="en">Hirotsugu Aida</span></p>
+    <p class="name"><span class="jp">会田 弘継</span><br><span class="en">Hirotsugu AIDA</span></p>
     <p class="credit"><span>教授</span><br><span>ジャーナリズム / 思想史</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkyyoobggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -27,7 +27,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">岩田 伸人</span><br><span class="en">Nobuto Iwata</span></p>
+    <p class="name"><span class="jp">岩田 伸人</span><br><span class="en">Nobuto IWATA</span></p>
     <p class="credit"><span>教授</span><br><span>貿易政策 / 国際貿易理論</span></p>
   </div>
 </li>
@@ -49,7 +49,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">岡本 真佐子</span><br><span class="en">Masako Okamoto</span></p>
+    <p class="name"><span class="jp">岡本 真佐子</span><br><span class="en">Masako OKAMOTO</span></p>
     <p class="credit"><span>教授</span><br><span>文化人類学 / 文化政策学</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymiygegkggo" target="_blank">プロフィール・主要研究業績</a></li>
@@ -87,7 +87,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">桒野 淳一</span><br><span class="en">Junichi Kuwano</span></p>
+    <p class="name"><span class="jp">桒野 淳一</span><br><span class="en">Junichi KUWANO</span></p>
     <p class="credit"><span>教授</span><br><span>文化人類学</span></p>
   </div>
 </li>
@@ -108,7 +108,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">仙波 憲一</span><br><span class="en">Kenichi Senba</span></p>
+    <p class="name"><span class="jp">仙波 憲一</span><br><span class="en">Kenichi SENBA</span></p>
     <p class="credit"><span>教授</span><br><span>マクロ経済学</span></p>
   </div>
 </li>
@@ -142,7 +142,7 @@ sort: 2
     <img src="/assets/images/v1/2015/04/816757cbd4195c87dbc506379606df51-480x720.jpg" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">平澤 典男</span><br><span class="en">Norio Hirasawa</span></p>
+    <p class="name"><span class="jp">平澤 典男</span><br><span class="en">Norio HIRASAWA</span></p>
     <p class="credit"><span>教授</span><br><span>公共経済学 / 法と経済学 / 数理社会学</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkggmokggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -167,7 +167,7 @@ sort: 2
     <img src="/assets/images/v1/2015/04/f1694e64bb6a7bda4864b64bfb43fa5c-480x720.jpg" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">藤原 淳賀</span><br><span class="en">The Revd. Dr. Prof. Atsuyoshi "Atty" Fujiwara</span></p>
+    <p class="name"><span class="jp">藤原 淳賀</span><br><span class="en">The Revd. Dr. Prof. Atsuyoshi "Atty" FUJIWARA</span></p>
     <p class="credit"><span>教授</span><br><span>キリスト教神学 /倫理学</span></p>
     <p class="message"><strong>受験生への一言</strong><br />大学時代は人生の土台を形成する時です。青山学院大学は「キリスト教信仰にもとづく教育をめざし、神の前に真実に生き、真理を謙虚に追求し、愛と奉仕の精神をもって、すべての人と社会とに対する責任を進んで果たす人間の形成を目的」としています。君が自分と異なる人々と世界で共生して生きたいと願うなら歓迎します。 </p>
     <ul>
@@ -282,7 +282,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Greg Khezrnejat</span></p>
+    <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Greg KHEZRNEJAT</span></p>
   </div>
 </li>
 
@@ -291,7 +291,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div>
   <div class="text">
-    <p class="name"><span class="jp">石塚 彩</span><br><span class="en">Aya Ishizuka</span></p>
+    <p class="name"><span class="jp">石塚 彩</span><br><span class="en">Aya IAHIZUKA</span></p>
   </div>
 </li>
 </ul>
