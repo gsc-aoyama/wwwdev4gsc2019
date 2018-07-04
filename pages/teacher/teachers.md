@@ -11,9 +11,9 @@ sort: 2
 
 <ul class="list-teacher">
 <li>
-  <div class="photo">
+  <!--<div class="photo">
     <img src="/assets/images/v1/2015/04/1f1108fdca3a41ed1c3965841ba655ce-480x720.jpg" alt="">
-  </div>
+  </div-->
   <div class="text">
     <p class="name"><span class="jp">会田 弘継</span><br><span class="en">Hirotsugu AIDA</span></p>
     <p class="credit"><span>教授</span><br><span>ジャーナリズム / 思想史</span></p>
@@ -23,9 +23,9 @@ sort: 2
   </div>
 </li>
 <li>
-  <div class="photo">
+  <!--<div class="photo">
     <img src="/assets/images/teacher_placeholder.png" alt="">
-  </div>
+  </div-->
   <div class="text">
     <p class="name"><span class="jp">岩田 伸人</span><br><span class="en">Nobuto IWATA</span></p>
     <p class="credit"><span>教授</span><br><span>貿易政策 / 国際貿易理論</span></p>
