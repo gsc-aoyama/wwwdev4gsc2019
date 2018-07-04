@@ -29,6 +29,9 @@ sort: 2
   <div class="text">
     <p class="name"><span class="jp">岩田 伸人</span><br><span class="en">Nobuto IWATA</span></p>
     <p class="credit"><span>教授</span><br><span>貿易政策 / 国際貿易理論</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkegysgggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
   </div>
 </li>
 <li>
@@ -110,6 +113,9 @@ sort: 2
   <div class="text">
     <p class="name"><span class="jp">仙波 憲一</span><br><span class="en">Kenichi SENBA</span></p>
     <p class="credit"><span>教授</span><br><span>マクロ経済学</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkggdyeggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
   </div>
 </li>
 <li>
@@ -239,6 +245,9 @@ sort: 2
     <p class="name"><span class="jp">菊池 尚代</span><br><span class="en">Hisayo KIKUCHI</span></p>
     <p class="credit"><span>准教授</span><br><span>メディア論 / 英語教育</span></p>
     <p class="message"><strong>受験生への一言</strong><br />私の専門は「ことば」です。私たちの生活に当然のように存在する「ことば」ですが、話し手、聞き手の理解は必ずしも同じとは限りません。例えば英語の広告メッセージや映画タイトルは文化や国によってどう変化しているでしょう。メディアの発展や共通語としての英語の普及に伴ってさらに高まる「ことば」の不思議を一緒に解明しませんか。</p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymisgkykggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
   </div>
 </li>
 <li>
@@ -248,6 +257,9 @@ sort: 2
   <div class="text">
     <p class="name"><span class="jp">小堀 真</span><br><span class="en">Makoto Kobori</span></p>
     <p class="credit"><span>助教</span><br><span>宗教社会学 / 社会調査法</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymddygysggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
   </div>
 </li>
 <li>
@@ -283,6 +295,9 @@ sort: 2
   </div>
   <div class="text">
     <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Greg KHEZRNEJAT</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbegygoggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
   </div>
 </li>
 
