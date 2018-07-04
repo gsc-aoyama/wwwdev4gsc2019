@@ -3,7 +3,6 @@ layout: page
 title: 対談「アジアの最前線から」
 lead: 既存のフレームや先入観を問い直そう
 permalink: /career/yahooxgsc/
-category: career
 sort: 2
 ---
 
