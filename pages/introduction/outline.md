@@ -29,7 +29,7 @@ sort: 3
 （GSCとは、英語の学部名：School of Global Studies and Collaborationの略称です。）
 
 
-## GSC’s Mission: より良い地球社会構築のために
+## GSC’s Mission: より良い地球社会のために
 
 ダイナミックに変貌するグローバル社会では、あらゆる「境堺（ボーダー）」を越える新たな「つながり」が生まれています。
 
