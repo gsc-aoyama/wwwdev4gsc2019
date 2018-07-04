@@ -43,7 +43,7 @@ sort: 5
 
 {:.list-links}
 *   [コラボレーション領域](#collabo)
-*   [ビジネス領域](#business)
+*   [経済・ビジネス領域](#business)
 *   [メディア/空間情報領域](#media)
 *   [ソシオロジー領域](#sociology)
 
