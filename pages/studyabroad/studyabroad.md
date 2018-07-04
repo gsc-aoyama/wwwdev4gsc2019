@@ -40,7 +40,7 @@ sort: 2
 #### 学部間協定留学の対象国は、タイとマレーシア。半期の留学を通して、急成長するアジア経済を体感してください。
 
 
-### 留学間協定校
+### 学部間協定校
 
 {:.list-grid}
 *   **[チュラーロンコーン大学](http://www.chula.ac.th/en/)** ![thailand](https://user-images.githubusercontent.com/416977/41012001-8555cff0-697a-11e8-8384-8d65880c478c.png)
