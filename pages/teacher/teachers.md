@@ -255,7 +255,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div-->
   <div class="text">
-    <p class="name"><span class="jp">小堀 真</span><br><span class="en">Makoto Kobori</span></p>
+    <p class="name"><span class="jp">小堀 真</span><br><span class="en">Makoto KOBORI</span></p>
     <p class="credit"><span>助教</span><br><span>宗教社会学 / 社会調査法</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymddygysggy" target="_blank">プロフィール・主要研究業績</a></li>
