@@ -23,26 +23,19 @@ sort: 3
     *   [学生寮について](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara/)
     *   [奨学金制度（受験生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/)
     *   [奨学金制度・経済援助（在学生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship/)
+    *   [授業・定期試験・学習](http://www.aoyama.ac.jp/life/schooltime/)
+    *   [ボランティア活動](http://www.aoyama.ac.jp/life/volunteer/)
+    *   [GSC学生連合](http://gscstunion.com/)
+    *   [各種証明書・手続き](https://www.aoyama.ac.jp/procedure/certificate/)
 *   [留学][studyabroad]
     *   [留学制度][studyabroad/studyabroad]
     *   [留学生活][studyabroad/life]
     *   [レポート][studyabroad/report]
     *   [留学派遣の継続・中止・途中帰国ガイドライン][studyabroad/guideline]
+    *   [よくあるご質問(FAQ)][studyabroad/faq]
+    
 *   [就職・キャリア][career]
-    *   [対談「アジアの最前線から」][career/yahooxgsc]
-    *   [5 年後、10 年後の未来を想像してみよう][career/future]
-    *   [今後、必要とされる人材とは][career/needs]
     *   [想定される卒業後の進路][career/course]
-*   [For International Students][international]
-    *   [About AGU][international/about-agu]
-    *   [About GSC][international/about-gsc]
-    *   [Exchange Student Program][international/exchange-student-program-2]
-    *   [GSC Japan Studies Certificate Program][international/japan-studies-certificate-program]
-    *   [JSCP Fact Sheet][international/fact-sheet]
-    *   [JSCP Course Offerings][international/course-offerings]
-    *   [JSCP Application][international/application]
-    *   [Extracurricular Program][international/extracurricular-program]
-    *   [Student Support][international/student-support]
 *   [交通アクセス][general/access]
 *   [資料請求](http://www.aoyama.ac.jp/outline/reference/)
 *   [このサイトについて][general/sitepolicy]
@@ -67,6 +60,7 @@ sort: 3
 [studyabroad/life]: {{ '/studyabroad/life/' | relative_url }}
 [studyabroad/report]: {{ '/studyabroad/report/' | relative_url }}
 [studyabroad/guideline]: {{ '/studyabroad/guideline/' | relative_url }}
+[studyabroad/faq]: {{ '/studyabroad/faq/' | relative_url }}
 [career]: {{ '/career/' | relative_url }}
 [career/yahooxgsc]: {{ '/career/yahooxgsc/' | relative_url }}
 [career/future]: {{ '/career/future/' | relative_url }}
