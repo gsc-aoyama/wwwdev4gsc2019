@@ -10,7 +10,7 @@ sort: 1
 
 {:.list-links}
 *   [教員一覧][teachers]
-*   [教員インタビュー][teachers]
+*   [教員インタビュー][interview]
 *   [模擬授業][triallesson]
 *   [刊行物][publications]
 
