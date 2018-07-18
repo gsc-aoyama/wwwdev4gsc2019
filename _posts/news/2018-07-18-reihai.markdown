@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2年後期留学の出発礼拝を行いました"
+date:   2018-07-18 12:58:52 +0900
+category: jekyll update
+---
+
+<!--img src=""-->
+
+2年生が後期留学に出発するにあたり、2018年7月14日（土）の午後に出発礼拝を行いました。
+
+藤原淳賀宗教主任が『新たな「私たち」：コンフォート・ゾーンを超えて』という題名で説教を行いました。
+
+その後、平澤典男学部長の式辞、学生代表の菅原大雅くんの『代表者の言葉』があり、約100人の留学予定者一同、留学へ向けて心を新たにしました。
+
+(2018.07.18)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
