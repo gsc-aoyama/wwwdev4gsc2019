@@ -5,7 +5,7 @@ date:   2018-07-18 12:58:52 +0900
 category: jekyll update
 ---
 
-<!--img src=""-->
+<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/Reihai_IMG_0903.JPG" width="600">
 
 2年生が後期留学に出発するにあたり、2018年7月14日（土）の午後に出発礼拝を行いました。
 
