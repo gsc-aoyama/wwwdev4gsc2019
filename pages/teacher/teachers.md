@@ -294,7 +294,8 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div-->
   <div class="text">
-    <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Greg KHEZRNEJAT</span></p>
+    <p class="name"><span class="jp">グレゴリー・ケズナジャット</span><br><span class="en">Gregory KHEZRNEJAT</span></p>
+    <p class="credit"><span>助教</span><br><span>日本文学</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbegygoggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
@@ -306,7 +307,7 @@ sort: 2
     <img src="/assets/images/teacher_placeholder.png" alt="">
   </div-->
   <div class="text">
-    <p class="name"><span class="jp">石塚 彩</span><br><span class="en">Aya IAHIZUKA</span></p>
+    <p class="name"><span class="jp">石塚 彩</span><br><span class="en">Aya ISHIZUKA</span></p>
     <p class="credit"><span>助教</span><br><span>国際保健学</span></p>
     <!--p class="message"><strong>受験生への一言</strong><br />多様化する現代社会における「共生」について学び、考え、そして体験する。本学部の留学は、皆さんの世界を大きく広げるきっかけとなるでしょう。地球を舞台に羽ばたく皆さんを応援します。</p-->
     <ul>
