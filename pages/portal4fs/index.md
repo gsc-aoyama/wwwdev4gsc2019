@@ -17,13 +17,12 @@ sort: 1
 
 
 {:.list-links}
-*   [学費について](https://www.aoyama.ac.jp/life/expenses/)
+*   [4_調査計画書 書式](https://www.aoyama.ac.jp/life/expenses/)
 *   [学生寮について](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html)
-*   [奨学金制度（受験生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/)
-*   [奨学金制度・経済援助（在学生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship/)
-*   [授業・定期試験・学習](http://www.aoyama.ac.jp/life/schooltime/)
-*   [ボランティア活動](http://www.aoyama.ac.jp/life/volunteer/)
-*   [GSC学生連合](http://gscstunion.com/)
-*   [各種証明書・手続き](https://www.aoyama.ac.jp/procedure/certificate/)
+*   [5_フィールドワーク記録書式](http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/)
+*   [6_フィールドワーク実施時間集計表書式](http://www.aoyama.ac.jp/life/expenses/scholarship/)
+*   [7_フィールドワーク実施報告書書式](http://www.aoyama.ac.jp/life/schooltime/)
+*   [8_収集資料・データ一覧表書式](http://www.aoyama.ac.jp/life/volunteer/)
+
 
 
