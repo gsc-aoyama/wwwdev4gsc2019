@@ -6,8 +6,6 @@ category: portal4fs
 sort: 1
 ---
 
-# フィールドスタディー・ポータル
-
 ## FieldStudyGuide2018
 
 {:.list-links}
