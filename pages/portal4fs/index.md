@@ -16,5 +16,14 @@ sort: 1
 *   [8_収集資料・データ一覧表書式](https://github.com/gsc-aoyama/fieldstudy-guide4gsc/raw/master/FieldStudyGuide2018/8_%E5%8F%8E%E9%9B%86%E8%B3%87%E6%96%99%E3%83%BB%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E4%B8%80%E8%A6%A7%E8%A1%A8%E6%9B%B8%E5%BC%8F10170306.docx)
 
 
+{:.list-links}
+*   [学費について](https://www.aoyama.ac.jp/life/expenses/)
+*   [学生寮について](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html)
+*   [奨学金制度（受験生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/)
+*   [奨学金制度・経済援助（在学生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship/)
+*   [授業・定期試験・学習](http://www.aoyama.ac.jp/life/schooltime/)
+*   [ボランティア活動](http://www.aoyama.ac.jp/life/volunteer/)
+*   [GSC学生連合](http://gscstunion.com/)
+*   [各種証明書・手続き](https://www.aoyama.ac.jp/procedure/certificate/)
 
 
