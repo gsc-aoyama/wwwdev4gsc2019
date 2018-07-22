@@ -8,6 +8,7 @@ sort: 1
 
 ## FieldStudyGuide2018
 
+![field trip](/assets/images/v1/2018/07/Field-trip_-_school_children_outdoors_listening_to_man_wide.jpg "field trip"){:.image}
 
 {:.list-links}
 *   [調査計画書](https://github.com/gsc-aoyama/fieldstudy-guide4gsc/raw/master/FieldStudyGuide2018/4_FSplan_propsal20170306.docx)
