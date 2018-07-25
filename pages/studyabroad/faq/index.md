@@ -38,7 +38,8 @@ A1-2：学部留学に行くためには一定の条件（下記参照）を満�
 　・ 留学に必要な単位を取得すること
  
  【大学間協定留学】
-　・　留学先大学により異なるので、本学のHP（「青学から海外へ＞ 協定校留学」http://web.iec.aoyama.ac.jp/studyabroad/exchange）をご参照ください。
+ 
+　・ 留学先大学により異なるので、本学のHP（「青学から海外へ＞ 協定校留学」[http://web.iec.aoyama.ac.jp/studyabroad/exchange](http://web.iec.aoyama.ac.jp/studyabroad/exchange) ）をご参照ください。
 
 
 ### Q1-3：学部間協定留学の留学先はどのように決められるのですか？
