@@ -4,9 +4,7 @@ title:  "新規学部間協定締結（タイ：シーナカリンウィロー�
 date:   2018-03-20 16:14:52 +0900
 category: jekyll update
 ---
-2018年3月14日、
-
-地球社会共生学部はシーナカリンウィロート大学インターナショナルカレッジ（Srikarinwirot University, International College for Sustainability Studies: SWUIC）との学部間協定を締結しました。
+2018年3月14日、地球社会共生学部はシーナカリンウィロート大学インターナショナルカレッジ（Srikarinwirot University, International College for Sustainability Studies: SWUIC）との学部間協定を締結しました。
 
 シーナカリンウィロート大学はバンコク中心部にキャンパスを構える国立総合大学で、SWUICは、持続可能性（Sustinability）という点に主軸を置き、観光関係を中心に英語で講義を行っている学部です。
 
