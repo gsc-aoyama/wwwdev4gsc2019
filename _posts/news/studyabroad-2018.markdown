@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GSC3期生の留学出発が始まりました"
+date:   2018-08-13 11:46 
+category: jekyll update
+---
+
+早いもので３期生の留学派遣が始まっています。
+8月3日はカセサート大学に留学する学生たちが飛び立ちました。
+今後も派遣先に応じて、数回に分けて出発します。
+ 
+異文化の中で多くの知識と経験を得て、無事に帰国することを教職員一同願っています！
+
+(2018.08.13)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
