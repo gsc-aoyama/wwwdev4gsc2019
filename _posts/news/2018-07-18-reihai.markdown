@@ -5,7 +5,6 @@ date:   2018-07-25 12:58:52 +0900
 category: jekyll update
 ---
 
-<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/OC_IMG_0905.JPG" width="600">
 <img src="http://www.gsc.aoyama.ac.jp/assets/images/news/OC_IMG_0907.JPG" width="600">
 <img src="http://www.gsc.aoyama.ac.jp/assets/images/news/OC_IMG_0908.JPG" width="600">
 
