@@ -14,5 +14,4 @@ category: campus
 *   [奨学金制度・経済援助（在学生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship/)
 *   [授業・定期試験・学習](http://www.aoyama.ac.jp/life/schooltime/)
 *   [ボランティア活動](http://www.aoyama.ac.jp/life/volunteer/)
-*   [GSC学生連合](http://gscstunion.com/)
 *   [各種証明書・手続き](https://www.aoyama.ac.jp/procedure/certificate/)
