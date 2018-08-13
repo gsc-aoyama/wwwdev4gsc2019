@@ -4,8 +4,8 @@ title:  "GSC3期生の留学出発が始まりました"
 date:   2018-08-13 11:46 
 category: jekyll update
 ---
-<img src="www4gsc/assets/images/news/20180813_Mahidol.jpg" width="600">
-<img src="www4gsc/assets/images/news/P1070260.JPG" width="600">
+<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/20180813_Mahidol.jpg" width="600">
+<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/P1070260.JPG" width="600">
 
 早いもので３期生の留学派遣が始まっています。
 8月3日はカセサート大学に留学する学生たちが飛び立ちました。
