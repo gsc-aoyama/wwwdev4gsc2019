@@ -5,7 +5,7 @@ date:   2018-08-13 11:46
 category: jekyll update
 ---
 <img src="http://www.gsc.aoyama.ac.jp/assets/images/news/20180813_Mahidol.jpg" width="600">
-<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/2018-08-06Thammasart2.jpg" width="600">
+<img src="http://www.gsc.aoyama.ac.jp/assets/images/news/2018-08-06-Thammasart.jpg" width="600">
 <img src="http://www.gsc.aoyama.ac.jp/assets/images/news/P1070260.JPG" width="600">
 
 早いもので３期生の留学派遣が始まっています。
