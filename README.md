@@ -6,3 +6,6 @@
 * [その他画像置き場 /年/月 フォルダ内に配置](https://github.com/gsc-aoyama/www4gsc/tree/gh-pages/assets/images/v1/2018)
 * [ニュース投稿場所](https://github.com/gsc-aoyama/www4gsc/tree/gh-pages/_posts/news)
 
+### マニュアル置き場
+* [wiki](https://github.com/gsc-aoyama/www4gsc/wiki)
+
