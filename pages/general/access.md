@@ -13,7 +13,7 @@ JR 横浜線「淵野辺駅」より徒歩約 7 分
 
 *   <span class="asterisk">※</span>相模原キャンパスへの車輌での来校はご遠慮ください。
 
-
+<p>
 <div id='map'></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibWFwY29uY2llcmdlMDIiLCJhIjoiY2luendwdDdwMTlrd3VnbHlzcmFrbDFldiJ9.8T-zr4Q9B7MJwRtn4Skh8w';
@@ -24,3 +24,4 @@ const map = new mapboxgl.Map({
   zoom: 16.7
 });
 </script>
+</p>
