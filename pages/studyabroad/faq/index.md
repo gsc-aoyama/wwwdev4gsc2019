@@ -22,7 +22,9 @@ A1-1：学部間協定留学<sup>*</sup>あるいは大学間協定留学<sup>**
 
 <sup>**</sup>：「大学間協定留学」とは、青山学院大学が協定を結んだ大学への留学です。地球社会共生学部の学生だけではなく、全学部の学生が応募することができます。書類審査および面接による選抜があります。詳細は下記リンクをご参照ください。
 
-　　[青山から海外へ＞協定校留学](http://web.iec.aoyama.ac.jp/studyabroad/exchange)
+<ul class="studyabroad_faq">
+	<li><a href="http://web.iec.aoyama.ac.jp/studyabroad/exchange" alt="青山から海外へ＞協定校留学" target="_blank">青山から海外へ＞協定校留学</a></li>
+</ul>
 
 ### Q1-2：入学したら全員が学部留学に行くことができるのですか？
 A1-2：学部留学に行くためには一定の条件（下記参照）を満たすことが必要となります。
@@ -39,7 +41,9 @@ A1-2：学部留学に行くためには一定の条件（下記参照）を満�
  
  【大学間協定留学】
  
-　・ 留学先大学により異なるので、本学のHP（[青学から海外へ＞協定校留学](http://web.iec.aoyama.ac.jp/studyabroad/exchange) ）をご参照ください。
+<ul class="studyabroad_faq">
+	<li>　・ 留学先大学により異なるので、本学のHP（<a href="http://web.iec.aoyama.ac.jp/studyabroad/exchange" alt="青山から海外へ＞協定校留学" target="_blank">青山から海外へ＞協定校留学</a>）をご参照ください。</li>
+</ul>
 
 
 ### Q1-3：学部間協定留学の留学先はどのように決められるのですか？
@@ -78,8 +82,10 @@ A3-2：生活費は留学先国や個人差があるのでおおよその目安�
 ### Q3-3：留学時の安全対策はどうなっていますか？
 A3-3：学部間協定留学については、本学部、危機管理会社、保険会社、タイ・マレーシアの医療専門機関が連携して、学生の安全管理を図る体制となっています。[留学派遣の継続・中止・途中帰国ガイドライン](https://gsc-aoyama.github.io/www4gsc/studyabroad/guideline/)もご参照ください。
 
-　大学間協定留学については、該当するリンク（[「青学から海外へ＞海外での安全管理」 ](http://web.iec.aoyama.ac.jp/studyabroad/safety) ）をご参照ください。
- 
+<ul class="studyabroad_faq">
+	<li>　大学間協定留学については、該当するリンク（<a href="http://web.iec.aoyama.ac.jp/studyabroad/safety" alt="青山から海外へ＞協定校留学" target="_blank">青山から海外へ＞協定校留学</a>）をご参照ください。</li>
+</ul>
+
 　いずれの場合も大学（本学および留学先大学）の指示をしっかり守ること、そして自分でしっかり安全管理を行うことが基本となります。
 
 
