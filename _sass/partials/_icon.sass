@@ -105,5 +105,16 @@ $icon-reference: "\EA08"
 // Expose as class
 .icon.-reference:before
   content: $icon-reference
+  
+  // Save variable
+$icon-aoyama: "\EA09"
+// Save mixin
+=icon--aoyama
+  +icon($icon-aoyama)
+    @content
+// Expose as class
+.icon.-aoyama:before
+  content: $icon-aoyama
+
 
 
