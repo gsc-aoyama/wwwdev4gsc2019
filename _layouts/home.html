@@ -9,8 +9,12 @@ layout: default
         <p><span>国境を</span><span>越える</span><span>学びで、</span><span>共に</span><span>生きる</span><span>力を</span></p>
       </div>
     </div>
+    <div class="catch">
+      <p>青山学院大学 地球社会共生学部は、社会科学系の幅広い学問基盤のもと、<br>「共生マインド」を体得したうえで、専門能力を身につけるグローバル系の学部です。<br>カリキュラムや入試情報などを掲載しています。</p>
+    </div>
   </section>
 </section>
+<!--
 <section class="page-section s-lead">
   <section class="content-section">
     <div class="row">
@@ -21,27 +25,28 @@ layout: default
     </div>
   </section>
 </section>
+-->
 <div class="row">
   <div class="medium-8 large-8 columns">
     {{ content }}
     <div class="topic">
-      <!-- a href="{{ '/career/yahooxgsc/' | relative_url }}"-->
-      <a href="{{ '/introduction/interview/' | relative_url }}">
-        <div class="image">
-          <!-- img src="{{ '/assets/images/home_interview.png' | relative_url }}" alt="" -->
-          <img src="{{ '/assets/images/home_interview.jpg' | relative_url }}" alt="">
-          <!-- img src="{{ '/assets/images/v1/2015/03/pickup_interview.jpg' | relative_url }}" alt="" -->
-        </div>
-        <div class="text">
-          <!-- p class="tagline"><span>橘田正造 教授 ✕ 村上臣 ヤフー(株)執行役員 対談</span></p-->
-          <p class="tagline"><span>学部長インタビュー</span></p>
+      <!-- a href="/www4gsc_copy/career/yahooxgsc/"-->
+      <div class="image">
+        <!-- img src="/www4gsc_copy/assets/images/home_interview.png" alt="" -->
+        <a href="/www4gsc_copy/introduction/interview/"><img src="/www4gsc_copy/assets/images/HirasawaNorio_1400x695.jpg" alt=""></a>
+        <!-- img src="/www4gsc_copy/assets/images/v1/2015/03/pickup_interview.jpg" alt="" -->
+      </div>
+      <div class="text">
+        <!-- p class="tagline"><span>橘田正造 教授 ✕ 村上臣 ヤフー(株)執行役員 対談</span></p-->
+        <p class="tagline"><span>学部長インタビュー</span></p>
+        <a href="/www4gsc_copy/introduction/interview/">
           <!-- h2>既存のフレームや先入観を問い直そう</h2-->
           <h2>世界の諸問題を、社会科学の力で解決しよう</h2>
-          
-          <!-- p class="description">アジア開発銀行等多くの国際機関での実務を経験してきた橘田教授と、青山学院大学OBとしてヤフー株式会社の執行役員を務める傍ら、Bharti Softbank（ソフトバンクとインド Bharti Airtelの合弁会社）とヤフーが設立したインド企業 “Ignite World” の取締役を務める村上臣氏が、リアルなアジアの状況と、これからの可能性について熱く語る対談の様子をお伝えします。</p-->
-          <p class="description">学部名称の「地球」はグローバルの日本語訳で、学部の教育や研究が国家を基礎に形作られる国際社会ではなく、「地球社会」を対象としていることを示したものです。地球全体を社会と見れば、そこには、持続的な発展や多様性に伴う問題など、根本的でさまざまな問題があります。そこで、我々は、世界のひとびとと共に生き、共に価値を見出し、より良い社会を共同で創造できる人材、すなわち「共生マインド」を持つ人材を生み出したいと思っています。</p>
-        </div>
-      </a>
+        </a>
+        
+        <!-- p class="description">アジア開発銀行等多くの国際機関での実務を経験してきた橘田教授と、青山学院大学OBとしてヤフー株式会社の執行役員を務める傍ら、Bharti Softbank（ソフトバンクとインド Bharti Airtelの合弁会社）とヤフーが設立したインド企業 “Ignite World” の取締役を務める村上臣氏が、リアルなアジアの状況と、これからの可能性について熱く語る対談の様子をお伝えします。</p-->
+        <p class="description">学部名称の「地球」はグローバルの日本語訳で、学部の教育や研究が国家を基礎に形作られる国際社会ではなく、「地球社会」を対象としていることを示したものです。地球全体を社会と見れば、そこには、持続的な発展や多様性に伴う問題など、根本的でさまざまな問題があります。そこで、我々は、世界のひとびとと共に生き、共に価値を見出し、より良い社会を共同で創造できる人材、すなわち「共生マインド」を持つ人材を生み出したいと思っています。</p>
+      </div>
     </div>
     <ul class="list-pannel">
       
@@ -111,8 +116,8 @@ layout: default
         {% for post in site.posts %}
           <li>
             <a href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}<br>
               <span class="date">{{ post.date | date: "%Y.%m.%-d" }}</span>
+              <p>{{ post.title | escape }}</p>
             </a>
           </li>
         {% endfor %}
