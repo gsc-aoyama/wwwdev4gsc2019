@@ -20,13 +20,12 @@
     background-color: #F2F2F2;
   }
   #header .row .columns nav ul.header_right {
-    margin-top: 23px !important;
     margin-right: -70px !important;
     width: 450px !important;
   }
   #header .row .columns nav ul.header_right li {
-    margin-right: -10px !important;
     margin-top: 20px !important;
+    margin-right: -10px !important;
     padding: 0 !important;
     list-style: none !important;
     float: left !important;
@@ -54,6 +53,7 @@
     right: 0;
     bottom: 0;
     margin: auto;
+    padding: 0 !important;
     font-size: 75% !important;
   }
   #header .row .columns nav ul.header_right a i {
@@ -146,6 +146,7 @@
   }
   #header .row nav ul.header_right {
     position: static !important;
+    margin-top: 30px !important;
   }
 }
 
@@ -158,57 +159,6 @@
     height: 350px !important;
   }
 }
-
-
-/*
-@media all and (-ms-high-contrast:none){
-  #header .row .columns nav ul.header_right {
-    margin-top: 23px !important;
-    margin-right: -70px !important;
-    width: 450px !important;
-  }
-  #header .row .columns nav ul.header_right li {
-    margin-right: -10px !important;
-    margin-top: 20px !important;
-    padding: 0 !important;
-    list-style: none !important;
-    float: left !important;
-    height: 10px !important;
-    position: relative !important;
-    width: 450px !important;
-  }
-  #header .row .columns nav ul.header_right li.hr1 {
-    width: 110px !important;
-  }
-  #header .row .columns nav ul.header_right li.hr2 {
-    width: 130px !important;
-  }
-  #header .row .columns nav ul.header_right li.hr3 {
-    width: 130px !important;
-  }
-  #header .row .columns nav ul.header_right li.hr4 {
-    width: 180px !important;
-  }
-  #header .row .columns nav ul.header_right li.hr5 {
-    width: 210px !important;
-  }
-  #header .row .columns nav ul.header_right li a {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    font-size: 75% !important;
-  }
-  #header .row .columns nav ul.header_right a i {
-    font-size: 165% !important;
-  }
-  #header .row .columns nav ul.header_right li a:hover {
-    color: #48A186;
-  }
-
-}
-*/
 
 
 /*----- TOPPAGE -----*/
