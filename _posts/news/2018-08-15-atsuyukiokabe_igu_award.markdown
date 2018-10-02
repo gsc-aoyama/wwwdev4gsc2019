@@ -7,7 +7,9 @@ category: jekyll update
 <img src="http://www.gsc.aoyama.ac.jp/assets/images/news/atsuyuki_okabe.jpg" width="600">
 
 
-2018年8月10日、カナダのケベックで開催された[国際地理学連合(IGU)](https://igu-online.org/)大会において、本学部の岡部篤行教授が「桂冠名誉賞」を受賞しました。
+<!--2018年8月10日、カナダのケベックで開催された[国際地理学連合(IGU)](https://igu-online.org/)大会において、本学部の岡部篤行教授が「桂冠名誉賞」を受賞しました。-->
+
+<p>2018年8月10日、カナダのケベックで開催された<a href="https://igu-online.org/" target="_blank">国際地理学連合(IGU)</a>大会において、本学部の岡部篤行教授が「桂冠名誉賞」を受賞しました。</p>
 
 1922年に設立された地理学に関する世界最大規模の学術連合である国際地理学連合（International Geographical Union：以下、IGU）の「桂冠名誉賞」（Laureat d’honneur awards）は、国際的規模で地理学の発展に貢献し、また同連合の活動に顕著な役割を果たした人に与えられる賞です。
 
