@@ -529,16 +529,14 @@
 
 
 /*----- STUDYABROAD/STUDYABROAD -----*/
-#main #agreement h3  {
+#main #agreement h3 {
   font-size: 130% !important;
   line-height: 5px !important;
   border-left: 5px solid #48A186 !important;
-  padding: .75em;
-}
+  padding: .75em; }
 
 #main #agreement ul.list-grid li p strong a {
-  text-decoration: none !important;
-}
+  text-decoration: none !important; }
 
 #main #agreement ul.list-grid li p strong a:before {
   content: ' ' !important;
@@ -548,9 +546,22 @@
   margin-right: 5px !important;
   background-image: url(./images/link_arrow.png) !important;
   background-size: contain !important;
-  vertical-align: -4px !important;
-}
+  vertical-align: -4px !important; }
+
+#main #agreement ul.list-grid li a.thailand:after {
+  content: url("https://user-images.githubusercontent.com/416977/41012001-8555cff0-697a-11e8-8384-8d65880c478c.png");
+  position: relative;
+  bottom: -0.1em;
+  margin-left: 0.5em; }
+
+#main #agreement ul.list-grid li a.malaysia:after {
+  content: url("https://user-images.githubusercontent.com/416977/41011993-80df4334-697a-11e8-8be1-ace55199629d.png");
+  position: relative;
+  bottom: -0.1em;
+  margin-left: 0.5em; }
 
 #main #agreement ul.list-grid li p strong a:hover {
-  text-decoration: underline !important;
-}
+  text-decoration: underline !important; }
+
+#main #agreement ul.list-caption li {
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ',  Meiryo, arial, helvetica, clean, 'ＭＳ Ｐゴシック', sans-serif !important; }
