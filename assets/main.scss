@@ -449,6 +449,10 @@
   padding: .75em;
 }
 
+.content-section .row .columns ul.list-links li {
+  height: 5em !important;
+}
+
 
 /*----- TEACHER/PUBLICATIONS -----*/
 #main ul.oneline li a[target*="_blank"]:after {
