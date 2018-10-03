@@ -37,7 +37,7 @@ sort: 3
 *   [就職・キャリア][career]
     *   [想定される卒業後の進路][career/course]
 *   [交通アクセス][general/access]
-*   <a href="http://www.aoyama.ac.jp/outline/reference/" target="_blank" class="pop">資料請求</a>
+*   <a href="http://www.aoyama.ac.jp/outline/reference.html" target="_blank" class="pop">資料請求</a>
 *   [このサイトについて][general/sitepolicy]
 *   [お問い合わせ][general/contact]
 *   [サイトマップ][general/sitemap]
