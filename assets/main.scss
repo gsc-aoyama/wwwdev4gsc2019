@@ -569,3 +569,14 @@
 
 #main #agreement ul.list-caption li {
   font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ',  Meiryo, arial, helvetica, clean, 'ＭＳ Ｐゴシック', sans-serif !important; }
+
+
+/*----- GENERAL/SITEMAP -----*/
+ul.list-sitemap li a.pop:after,
+ul.list-sitemap li ul li a.pop:after {
+  content: url("./images/icon_popup.gif");
+  position: relative;
+  bottom: -0.1em;
+  margin-left: 0.5em;
+}
+
