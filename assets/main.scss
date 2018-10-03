@@ -295,6 +295,11 @@
   }
 
   ul.share {
+    display: none !important;
+  }
+
+/*
+  ul.share {
     margin-left: 10px !important;
   }
 
@@ -305,16 +310,9 @@
   }
 
   ul.share li i.-facebook {
-    /*display: none !important;*/
-  }
-
-  ul.share li i.-twitter {
-    /*display: none !important;*/
-  }
-
-  ul.share li i.-facebook {
     color: #4267B2;
   }
+*/
 }
 
 @media screen and (max-width: 64em) {
