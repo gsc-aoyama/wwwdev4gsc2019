@@ -19,14 +19,14 @@ sort: 3
     *   [模擬授業][teacher/triallesson]
     *   [刊行物][teacher/publications]
 *   [学生生活][campus]
-    *   [学費について](http://www.aoyama.ac.jp/life/expenses/)
-    *   [学生寮について](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara/)
-    *   [奨学金制度（受験生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/)
-    *   [奨学金制度・経済援助（在学生向け）](http://www.aoyama.ac.jp/life/expenses/scholarship/)
-    *   [授業・定期試験・学習](http://www.aoyama.ac.jp/life/schooltime/)
-    *   [ボランティア活動](http://www.aoyama.ac.jp/life/volunteer/)
-    *   [GSC学生連合](http://gscstunion.com/)
-    *   [各種証明書・手続き](https://www.aoyama.ac.jp/procedure/certificate/)
+    *   <a href="http://www.aoyama.ac.jp/life/expenses/" target="_blank" class="pop">学費について</a>
+    *   <a href="http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara/" target="_blank" class="pop">学生寮について</a>
+    *   <a href="http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/" target="_blank" class="pop">奨学金制度（受験生向け）</a>
+    *   <a href="http://www.aoyama.ac.jp/life/expenses/scholarship/" target="_blank" class="pop">奨学金制度・経済援助（在学生向け）</a>
+    *   <a href="http://www.aoyama.ac.jp/life/schooltime/" target="_blank" class="pop">授業・定期試験・学習</a>
+    *   <a href="http://www.aoyama.ac.jp/life/volunteer/" target="_blank" class="pop">ボランティア活動</a>
+    *   <a href="http://gscstunion.com/" target="_blank" class="pop">GSC学生連合</a>
+    *   <a href="https://www.aoyama.ac.jp/procedure/certificate/" target="_blank" class="pop">各種証明書・手続き</a>
 *   [留学][studyabroad]
     *   [留学制度][studyabroad/studyabroad]
     *   [留学生活][studyabroad/life]
@@ -37,7 +37,7 @@ sort: 3
 *   [就職・キャリア][career]
     *   [想定される卒業後の進路][career/course]
 *   [交通アクセス][general/access]
-*   [資料請求](http://www.aoyama.ac.jp/outline/reference/)
+*   <a href="http://www.aoyama.ac.jp/outline/reference.html" target="_blank" class="pop">資料請求</a>
 *   [このサイトについて][general/sitepolicy]
 *   [お問い合わせ][general/contact]
 *   [サイトマップ][general/sitemap]

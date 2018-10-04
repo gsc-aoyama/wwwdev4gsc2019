@@ -31,6 +31,7 @@ header_pages:
   - pages/campus/index.md
   - pages/studyabroad/index.md
   - pages/career/index.md
+  - pages/exam/index.md
 
 
 collections:
