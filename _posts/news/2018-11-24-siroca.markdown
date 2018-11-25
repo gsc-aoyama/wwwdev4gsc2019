@@ -6,6 +6,7 @@ category: jekyll update
 ---
 <!-- img src="http://www.gsc.aoyama.ac.jp/assets/images/news/atsuyuki_okabe.jpg" width="600" -->
 
+![dsc_0564](https://user-images.githubusercontent.com/416977/48975124-8cf9f500-f0ad-11e8-8cb9-47c7bfc66109.JPG)
 
 調理家電などの生活家電を通じて、人々へこころ豊かな暮らしの提供を理念とするシロカ株式会社。
 
@@ -25,6 +26,20 @@ category: jekyll update
 次回は「いただきっず」の回で、シロカ社と共同で来年開催する予定です。今回のイベントでのフィードバックを行い、学生たちは既に次のイベントの準備で走り出しています。
 
 (2018.11.24)
+
+![img_3574](https://user-images.githubusercontent.com/416977/48975125-8cf9f500-f0ad-11e8-984a-42b54c4e6589.jpg)
+
+![img_3579](https://user-images.githubusercontent.com/416977/48975126-8d928b80-f0ad-11e8-84dd-36f875ffed10.jpg)
+
+![img_3583](https://user-images.githubusercontent.com/416977/48975127-8d928b80-f0ad-11e8-98f9-37b078759fc9.jpg)
+
+![img_3629](https://user-images.githubusercontent.com/416977/48975128-8d928b80-f0ad-11e8-9ac5-3914fbe2c0b4.jpg)
+
+![img_3630](https://user-images.githubusercontent.com/416977/48975129-8e2b2200-f0ad-11e8-8104-2a67607c52d8.jpg)
+
+![img_3643](https://user-images.githubusercontent.com/416977/48975130-8e2b2200-f0ad-11e8-999c-37f7c72e67e3.jpg)
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
