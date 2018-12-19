@@ -16,6 +16,7 @@ GSCでは、アジア地域への半期留学をカリキュラムの柱にし�
 *   [留学派遣の継続・中止・途中帰国ガイドライン][guideline]
 *   [よくあるご質問（FAQ）][faq]
 *   [フィールドスタディーポータル][portal4fs]
+*   [留学制度についての注意事項](http://www.gsc.aoyama.ac.jp/assets/docs/2018/06/GSC_%E7%95%99%E5%AD%A6%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85201907.pdf)
 
 [studyabroad]: {{ '/studyabroad/studyabroad/' | relative_url }}
 [life]: {{ '/studyabroad/life/' | relative_url }}
