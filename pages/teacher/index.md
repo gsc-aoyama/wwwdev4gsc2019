@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: 教員紹介
 permalink: /teacher/
 category: teacher

@@ -15,8 +15,8 @@
   background: url(./images/home_cover.jpg) no-repeat center center
   +respond-to("large-up")
     background-size: contain
-    min-width: 1180px
-    height: 765px
+    min-width: 980px
+    height: 345px
   +respond-to("medium-only")
     background-size: cover
     height: 665px
@@ -101,12 +101,12 @@ strong
   line-height: 1.5rem
   border: 1px solid $color_extralightgray
   background: $color_extralightgray
-  margin: 2em 0
+  margin: 1em 0
   width: 100%
   font-size: 0.84375rem
-  padding: 2em
+  padding: 1em
   + .card
-    margin-top: -5em !important
+    margin-top: -3em !important
   .image
     display: block
     width: 33.3%
@@ -174,7 +174,6 @@ strong
 
 
 #aside
-  border-top: 4px solid $color_green
   p.title
     +sassline(epsilon, $font_sansserif_bold, 1.0, 0, all)
     padding: 2em .75em !important
@@ -184,7 +183,7 @@ strong
       +float-list
       li
         width: 100%
-        border-bottom: 1px solid $color_extralightgreen
+        border-bottom: 0px solid $color_extralightgreen
         &:first-child
           border-top: 1px solid $color_extralightgreen
         &:hover,
@@ -194,17 +193,10 @@ strong
             color: $color_green
       a
         +sassline(zeta, $font_sansserif_bold, 1.0, 0, all)
-        padding: 1.5em .75em !important
+        padding: 1.1em .75em !important
         color: $color_black
         display: block
         &:before
-          content: ' '
-          display: inline-block
-          height: 16px
-          width: 16px
-          margin-right: 5px
-          background-image: url(./images/link_arrow.png)
-          background-size: contain
           vertical-align: -3px
     &.list-news
       a
@@ -213,9 +205,9 @@ strong
         display: none
       .date
         +sassline(eta, $font_sansserif, 1.0, 0, all)
-        padding-top: 1em !important
+        padding-top: 0.6em !important
         display: block
-        margin-left: 22px
+        margin-left: 0px
     &.list-menu
   .facebook
     margin-top: 2em
@@ -234,11 +226,11 @@ strong
 #content,
 #article
   .content-header
-    margin-bottom: 3em
+    margin-bottom: 2em
     h1
       +sassline(beta, $font_sansserif_bold, 1.0, 0, all)
     .lead
-      +sassline(beta, $font_serif, 2.0, 1.0, all)
+      +sassline(beta, $font_sansserif, 2.0, 1.0, all)
       margin-top: 1em
   .article-header
     h1
@@ -248,7 +240,7 @@ strong
       color: #fff
       padding: 1em !important
     h4
-      +sassline(beta, $font_serif, 2.5, 1.0, all)
+      +sassline(beta, $font_sansserif, 2.5, 1.0, all)
       margin-top: 1.5em
   .content-section,
   .article-section
@@ -269,7 +261,7 @@ strong
     p
       +clearfix
     h4
-      +sassline(delta, $font_serif, 2.0, 2.0, all)
+      +sassline(delta, $font_sansserif, 2.0, 2.0, all)
       margin-top: 1.5em
       text-indent: -1.8em
       margin-left: 1.8em
@@ -310,7 +302,7 @@ strong
   margin: 2em 0
   border-top: 1px solid $color_green
   li
-    border-bottom: 1px solid $color_extralightgreen
+    border-bottom: 0px solid $color_extralightgreen
     &:hover
       background: $color_extralightgreen
     +respond-to("medium-up")

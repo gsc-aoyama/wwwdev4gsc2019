@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_studyabroad
 title: 留学
 permalink: /studyabroad/
 category: studyabroad

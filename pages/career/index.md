@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_career
 title: 就職・キャリア
 permalink: /career/
 category: career
