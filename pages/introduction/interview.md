@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_introduction
 title: 学部長インタビュー
 lead: 世界の諸問題を、社会科学の力で解決しよう
 permalink: /introduction/interview/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: ソシオロジー領域 教授　真鍋 一史
 lead: 観念でグローバルを語る時代は終わった。世界地図の中で考え、行動しよう。
 permalink: /teacher/interview/manabe/

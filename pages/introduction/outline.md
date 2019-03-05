@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_introduction
 title: 地球社会共生学部（GSC）とは
 permalink: /introduction/outline/
 category: introduction

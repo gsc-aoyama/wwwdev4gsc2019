@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: 経済・ビジネス領域教授　岩田伸人
 lead: グローバルな自由貿易とローカルな国内市場を両立させるにはどうすればよいか
 permalink: /teacher/interview/iwata/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_career
 title: 想定される卒業後の進路
 permalink: /career/course/
 category: career

@@ -74,28 +74,12 @@ strong
   font-weight: bold
 
 #footer
-  margin-top: 4em
-  background: $color_extralightgreen
-  .earth
-    background: url(./images/footer_earth.png)
-    background-blend-mode: darken
-    mix-blend-mode: darken
-    background-size: cover
-    width: 146px
-    padding-top: 171px
-    margin: -60px auto 0 auto
-  img
-    width: 146px
-    display: block
-    margin: -100px auto 0 auto
   p
     text-align: center
     strong
   ul
     +centering-list
-
-
-
+    
 .card
   +clearfix
   line-height: 1.5rem
@@ -226,7 +210,7 @@ strong
 #content,
 #article
   .content-header
-    margin-bottom: 2em
+    margin-bottom: 1em
     h1
       +sassline(beta, $font_sansserif_bold, 1.0, 0, all)
     .lead
@@ -247,7 +231,7 @@ strong
     padding-top: 0 !important
     a
       color: $color_green
-      text-decoration: underline
+      text-decoration: none
     h2
       +sassline(delta, $font_sansserif_bold, 2.0, 1.0, all)
       border-bottom: 4px solid $color_green
@@ -300,7 +284,7 @@ strong
 .list-links
   +float-list
   margin: 2em 0
-  border-top: 1px solid $color_green
+  border-top: 0px solid $color_green
   li
     border-bottom: 0px solid $color_extralightgreen
     &:hover
@@ -525,11 +509,6 @@ table
         &:after
           content: ""
 
-
-
-
-
-
 .list-teacher
   +float-list
   &>li
@@ -612,3 +591,15 @@ table
               background-image: url(./images/link_arrow.png)
               background-size: contain
               vertical-align: middle
+            
+.news
+  ul
+    &.list-news2
+      +float-list
+      li
+        width: 100%
+        padding-top: 5px !important
+        &:hover,
+          background: $color_extralightgreen
+          a
+            color: $color_green

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_introduction
 title: カリキュラム
 permalink: /introduction/curriculum/
 category: introduction

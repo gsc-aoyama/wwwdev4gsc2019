@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_introduction
 title: 3つのポリシー
 permalink: /introduction/policy/
 category: introduction

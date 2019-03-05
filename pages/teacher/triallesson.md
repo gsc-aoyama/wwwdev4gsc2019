@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: 模擬授業
 permalink: /teacher/triallesson/
 category: teacher

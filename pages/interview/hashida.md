@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: 経済・ビジネス領域教授　橘田正造
 lead: グローバルに生きると、何が面白いのだろうか。
 permalink: /teacher/interview/hashida/
