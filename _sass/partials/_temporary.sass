@@ -388,6 +388,7 @@ strong
         clear: left
         padding-right: 15px
     +respond-to("small-only")
+    width: 100%
   a
     display: block
   .image
@@ -591,15 +592,3 @@ table
               background-image: url(./images/link_arrow.png)
               background-size: contain
               vertical-align: middle
-            
-.news
-  ul
-    &.list-news2
-      +float-list
-      li
-        width: 100%
-        padding-top: 5px !important
-        &:hover,
-          background: $color_extralightgreen
-          a
-            color: $color_green

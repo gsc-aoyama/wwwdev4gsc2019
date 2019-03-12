@@ -558,15 +558,51 @@ ul.list-sitemap li ul li a.pop:after {
 
 
 /* ========================== *\
-    $TOPPAGE TEMPORARY
+    $COMMON TEMPORARY
 \* ========================== */
 
+
+.imgbounce {
+  overflow: hidden;
+}
+
+.imgbounce img {
+  transition: 0.2s;
+}
+
+.imgbounce img:hover {
+  -moz: scale(1.1,1.1);
+  -webkit-transform: scale(1.1,1.1);
+  -o-transform: scale(1.1,1.1);
+  -ms-transform: scale(1.1,1.1);
+}
+
+.flag {
+	background-color: #00b5ad;
+	color: #fff;
+	padding: 5px 10px;
+	position: absolute;
+}
+
+.link-summary a{
+    background-color: #00b5ad;
+    border-radius: 2px;
+    color: #fff;
+    float: right;
+    font-size: 80%;
+    margin: 0 0 20px 0;
+    padding: 0 15px;
+}
+
+/* ========================== *\
+    $TOPPAGE TEMPORARY
+\* ========================== */
 /*グローバルナビ*/
 
 #header .gmenu{
+  background-color: $color_green;
   margin: 0 calc(50% - 50vw);
   padding: 0 calc(50vw - 50%);
-  background-color: $color_green;
   }
   
 #header .gmenu a{
@@ -574,152 +610,179 @@ ul.list-sitemap li ul li a.pop:after {
   font-size: 96% !important;
   }
   
-/*slick設定*/
+/*メインビジュアル スライダー*/
 
 .slider{
-    max-width: 980px;
     height:auto;
+    max-width: 980px;
     margin:0 auto;
 }
 
 .slide-arrow{
+  margin-top: -15px;
   position: absolute;
   top: 50%;
-  margin-top: -15px;
 }
 
 .prev-arrow{
-  left: -30px;
-  width: 0;
-  height: 0;
   border-left: 0 solid transparent;
   border-right: 10px solid #DDD;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
+  height: 0;
+  left: -30px;
+  width: 0;
 }
 .next-arrow{
-  right: -30px;
-  width: 0;
-  height: 0;
   border-right: 0 solid transparent;
   border-left: 10px solid #DDD;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
+  height: 0;
+  right: -30px;
+  width: 0;
 }
 
-/*トップページレイアウト*/
+/*トップページ*/
+
+/*学部ニュース*/
+
+.top-news-area > .columns{
+  padding:0 22px 0 5px !important;
+  }
+
 h2.top-news{
   color: $color_green;
   font-weight: bold;
-  margin-bottom: 5px;
   font-size: 110%;
+  margin-bottom: 5px;
 }
 
-h2.top{
-  color: $color_green;
-  font-weight: bold;
-  font-size: 115%;
-}
-
-h2.top2{
-  margin: 10px 0px;
-  color: $color_green;
-  font-weight: bold;
-  font-size: 115%;
-}
-
-.toptopix h3{
-  padding: 13px 5px 0 5px;
-  font-weight: bold;
-  font-size: 90% !important;
-  color: $color_black;
-}
-.toptopix p{
-  font-size: 80% !important;
-  padding: 0px 5px 18px 5px;
-  line-height: 150% !important;
-  }
-  
-.toptopix{
-  margin-top: 5px
-  }
-  
-.toptopix ul{
-  margin: 0px
-  }
-  
-.toptest > .columns{
-  padding:0 22px 0 5px !important;
-  }
-  
-.toptest2 > .columns{
-  padding:0px !important;
-  }
-  
-.toptest2 ul li{
-  padding:0 1px 0 1px !important;
-  margin:0px !important;
-  }
-  
 .date{
   font-weight: bold !important;
   }
+
+/*トピックス*/
+
+.top-topix-area > .columns{
+  padding:0px !important;
+  }
+
+.top-topix{
+  margin-top: 5px
+  }
+  
+.top-topix h3{
+  color: $color_black;
+  font-weight: bold;
+  font-size: 90% !important;
+  padding: 13px 5px 10px 5px;
+}
+
+.top-topix p{
+  font-size: 80% !important;
+  line-height: 150% !important;
+  padding: 0px 5px 5px 5px;
+  }
+  
+.top-topix ul li{
+  margin:0px !important;
+  padding:0 1px 0 1px !important;
+  }
   
   
+/*新着情報　ボックス型*/
+
+h2.topix-title{
+  color: $color_green;
+  font-weight: bold;
+  font-size: 115%;
+  margin-bottom:-10px;
+}
+
+.topixnews-box{/*トップページ新着情報のBOXライン*/
+   border: solid 3px #00b5ad;
+   margin-top: 3px;
+}
+
+.topixnews-box p{/*トップページ新着情報のBOXライン*/
+  height: 45px;
+}
+
+h2.topixnews-title{
+  color: $color_green;
+  font-weight: bold;
+  font-size: 115%;
+  margin-bottom:-10px;
+}
+
+h2.topixnews-title2{
+  color: $color_green;
+  font-weight: bold;
+  font-size: 115%;
+  margin-bottom:5px;
+}
+
 /* ========================== *\
     $CONTENTS TEMPORARY
 \* ========================== */
-  
+
+
+/*カテゴリータイトル*/
+
 #category .row{
  margin-top: 0px;
  }
  
 .categorytitle{
-  height: 150px;
-  margin: 0 calc(50% - 50vw);
-  padding: 0 calc(50vw - 50%);
   background-image: url(./images/categorytitle.jpg) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  }
-  
-.categorytitle2{
   height: 150px;
   margin: 0 calc(50% - 50vw);
   padding: 0 calc(50vw - 50%);
+  }
+  
+.categorytitle2{
   background-image: url(./images/categorytitle2.jpg) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  height: 150px;
+  margin: 0 calc(50% - 50vw);
+  padding: 0 calc(50vw - 50%);
   }
   
 .categorytitle_inner{
   padding:60px 0 0 20px;
   }
   
-.categorytitle_inner2{
-  padding:0 0 0 20px;
+.categorytitle h2{
+  color: #FFF;
+  font-size: 160%;
   }
   
-.categorytitle h2{
-  font-size: 160%;
-  color: #FFF;
+  
+ /*パンくずリスト*/ 
+ 
+.list_breadcrumb{
+  padding-left:20px;
   }
   
 .list_breadcrumb li{
-  padding-left: 25px;
-  padding-right: 10px;
+  background: transparent url("./images/breadcrumb_arrow.gif") 5px center no-repeat;
   color: #444;
   float: left;
   font-size: 90%;
-  margin: 8px 0 8px 0;
-  background: transparent url("./images/breadcrumb_arrow.gif") 5px center no-repeat;
+  margin: 8px 0;
+  padding-left: 25px;
+  padding-right: 10px;
   }
 
 .list_breadcrumb li.first {
-  padding-left: 0;
   background-image: none;
+  padding-left: 0;
   }
 
 .list_breadcrumb li a{
@@ -730,11 +793,19 @@ h2.top2{
   text-decoration: underline;
   text-decoration-color: #4A4A4A;
   }
+  
+  
+ /*ページタイトル　フォント*/ 
 
 .content-header h1{
   border-top: solid 3px #ddd;
   padding-top: 5px;
   }
+  
+/*ページリード文　フォント*/ 
+#main .columns p.lead {
+  font-size: 150% !important;
+}
 
 .content-section p{
   font-size: 95%;
@@ -746,92 +817,67 @@ h2.top2{
   }
 
 
-#main .columns p.lead {
-  font-size: 150% !important;
-}
+/*コンテンツトップページ　レイアウト*/ 
 
-.newslabel a{
-    float: right;
-    margin: 0 0 20px 0;
-    padding: 0 15px;
-    border-radius: 2px;
-    color: #fff;
-    font-size: 80%;
-    background-color: #00b5ad;
-}
+/*コンテンツページ　トピックス*/ 
 
-.newslabel2{
-    margin: 0px 8px;
-    padding: 0 5px;
-    color: #fff;
-    font-size: 80%;
-    background-color: #666;
-}
-
-.newslabel3{
-    padding: 0 5px;
-    color: #fff;
-    font-size: 85%;
-    background-color: #FF6E00;
-}
-
-.topnews{
-    margin-top: 3px;
-    border: solid 3px #00b5ad;
-}
-
-.contentnews{
-    margin-top: 5px;
-    border: solid 3px #00b5ad;
-}
-
-.contentnews p{
-    padding: 3px;
-    font-size: 80%;
-}
-
-.flag {
-	position: absolute;
-	color: #fff;
-	background-color: #00b5ad;
-	padding: 5px 10px;
-}
-
-.imgbounce {
-  overflow: hidden;
-}
-.imgbounce img {
-  transition: 0.2s;
-}
-.imgbounce img:hover {
-  -moz: scale(1.1,1.1);
-  -webkit-transform: scale(1.1,1.1);
-  -o-transform: scale(1.1,1.1);
-  -ms-transform: scale(1.1,1.1);
-}
-  
-.news ul.list-news2 li{
-  border-top: solid 1px #d8d8d8;
-  }
-.news ul.list-news2 li p{
-  font-size: 95% !important;
-  padding: 10px 0 10px 0;
-  margin: 0px;
-  }
-.news ul.list-news2 li a:hover {
-  text-decoration: underline;
-  text-decoration-color: #4A4A4A;
-}
-
-
-.linktest {
+.content-topix p{
+  margin-top: 5px;
   background-image: url(./images/link_arrow.png) ;
   background-size: 20px 20px;
   background-repeat: no-repeat;
-  margin-top: 3px;
   padding: 0px 0px 0px 30px;
   font-weight: bold;
   color: $color_green;
   }
-  
-  
+
+/*コンテンツページ　新着情報　ボックス型*/ 
+.content-news{
+    border: solid 3px #00b5ad;
+    margin-top: 3px;
+}
+
+.content-news p{
+  font-size: 80%;
+  height: 45px;
+  padding: 5px;
+  line-height: 150%;
+}
+
+/*PC以外トップページコンテンツの並び順指定*/
+
+@media screen and (max-width: 51em) {/*816px以下*/
+.row{
+  display: flex;
+  flex-direction: column;
+}
+.row .item1{order: 2;}
+.row .item2{order: 1;}
+}
+
+/*プリント用コンテンツの並び順,非表示*/
+@media print{
+
+html,body{
+  overflow: visible;
+  zoom: 0.6;
+}
+
+.row{
+  display: flex;
+  flex-direction: column;
+}
+
+.row .item1{order: 2;}
+.row .item2{order: 1;}
+
+.m-hamburger_content{display: none;}
+.site-nav{display: none;}
+.trigger{display: none;}
+
+@-moz-document url-prefix() {/*Firefox 印刷用*/
+  .row {
+      display: block;
+  }
+}
+}
