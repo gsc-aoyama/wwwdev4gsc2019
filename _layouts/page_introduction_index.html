@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign category_pages = site.pages | where: "category", page.category |sort: 'sort' %}
-{% include category_introduction.html %}
+{% include category_introduction_top.html %}
 <div class="row">
   <div class="medium-3 large-3 columns">
     <aside id="aside">
@@ -106,76 +106,6 @@ layout: default
       </li>
     </ul>
     </div>
-    
-    <h2>新着情報</h2>
-            
-       <ul class="list-pannel">
-       <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-      
-        <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-      
-      <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-      
-      <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-      
-      <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-      
-      <li>
-        <a href="{{ '/introduction/' | relative_url }}">
-        <div class="content-news">
-          <div class="image"><span class="flag">見出し</span>
-            <img src="{{ '/assets/images/test3.jpg' | relative_url }}" alt="">
-          </div>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-          </div>
-        </a>
-      </li>
-    </ul> 
           </div>
         </div>
       </section>

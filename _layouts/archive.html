@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign category_pages = site.pages | where: "category", page.category |sort: 'sort' %}
+<div class="row">
+<div class="medium-3 large-3 columns">
+    <aside id="aside"></aside>
+  </div>
+  <div class="medium-9 large-9 columns">
+    <section id="content">
+      <header class="content-header">
+        <div class="row">
+          <div class="columns">
+            <h1>{{ page.title | escape }}</h1>
+            {% if page.lead %}
+            <p class="lead">{{ page.lead | escape }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </header>
+      <section class="content-section">
+        <div class="row">
+          <div class="columns">
+            {{ content }}
+          <aside id="aside">
+          <ul class="list-news">
+            {% for post in site.posts %}
+          <li><a href="{{ post.url | relative_url }}">
+              <span class="date">{{ post.date | date: "%Y.%m.%-d" }}</span>
+              <p>{{ post.title | escape }}</p>
+              </a>
+          </li>
+        {% endfor %}
+      </ul>
+      </aside>
+          </div>
+        </div>
+      </section>
+    </section>
+  </div>
+</div>
+
+
