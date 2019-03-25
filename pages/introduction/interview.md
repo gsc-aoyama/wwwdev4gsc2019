@@ -79,4 +79,4 @@ TOEIC&#174;やIELTSの試験結果からは、学生の英語力が着実に向�
 [image2]: {{ '/assets/images/interview_img02_752x500.jpg' | relative_url }}
 [image3]: {{ '/assets/images/interview_img03_752x500.jpg' | relative_url }}
 [image4]: {{ '/assets/images/interview_img04_752x500.jpg' | relative_url }}
-[image5]: {{ '/assets/images/interview_img05_752x500.jpg' | relative_url }}
+[image5]: {{ '/assets/images/interview_img06_752x500.jpg' | relative_url }}
