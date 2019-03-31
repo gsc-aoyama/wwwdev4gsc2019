@@ -13,7 +13,7 @@ category: jekyll update
 また、同パーティーにおいては、学生側より本年度を持って退職される5名の先生方への花束贈呈も行われました。
 GSCの礎を築いていただいた先生方、本当にありがとうございました！
 
-![Group Photo at Graduation Party](https://github.com/gsc-aoyama/www4gsc/blob/gh-pages/assets/images/v1/2019/gsc_graduation2019_w600.jpg?raw=true)
+![Group Photo at Graduation Party](https://github.com/gsc-aoyama/www4gsc/blob/gh-pages/assets/images/v1/2019/gsc_graduation2019_w800.jpg?raw=true)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
