@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_studyabroad
 title: レポート
 permalink: /studyabroad/report/
 category: studyabroad

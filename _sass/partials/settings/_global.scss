@@ -20,9 +20,9 @@ $rootsizes: (
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 // Grid
 // - - - - - - - - - - - - - - - - - - - - - - - - -
-$row-width: rem-calc(1200);
+$row-width: rem-calc(980);
 $total-columns: 12;
-$column-gutter: rem-calc(16 * 3);
+$column-gutter: rem-calc(20);
 
 
 $small-breakpoint-px:  640;

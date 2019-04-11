@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: メディア／空間情報領域≪メディア≫教授　会田 弘継
 lead: 事実の背後にある核心を見通すため、ジャーナリストに必要なこと。
 permalink: /teacher/interview/aida/

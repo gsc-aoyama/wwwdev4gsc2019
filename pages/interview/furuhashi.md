@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: メディア／空間情報領域≪空間情報≫教授　古橋 大地
 lead: 地図のない地域での海外活動。あなたは何をすべきか。
 permalink: /teacher/interview/furuhashi/

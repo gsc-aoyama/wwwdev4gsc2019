@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: コラボレーション領域 教授　桑島 京子
 lead: 開発援助の経験から学ぶ
 permalink: /teacher/interview/kuwajima/

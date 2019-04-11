@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: ソシオロジー領域 教授　高橋 良輔
 lead: グローバリゼーションは政治と社会をどう変えるのか。
 permalink: /teacher/interview/takahashi/

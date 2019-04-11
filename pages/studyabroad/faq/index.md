@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_studyabroad
 title: よくあるご質問（FAQ）
 permalink: /studyabroad/faq/
 category: studyabroad

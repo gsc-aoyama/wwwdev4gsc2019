@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_studyabroad
 title: 2016年度前期留学レポート
 permalink: /studyabroad/report/2016reports
 category: studyabroad

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_teacher
 title: メディア / 空間情報領域≪メディア≫ 教授　菊池 尚代
 lead: 自主的な学びを重視
 permalink: /teacher/interview/kikuchi/
