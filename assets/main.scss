@@ -18,12 +18,12 @@
     width: 440px !important;
   }
   #header .row nav ul.header_left li {
-    background-color: #00b5ad;
+    background-color: $color_green;
   }
       
   #header .row nav ul.header_left li:hover {
     border-bottom: solid 4px #F2F2F2;
-    background-color: #007d77;
+    background-color: $color_green;
   }
   #header .row .columns nav ul.header_right {
     margin-top: -48px !important;
@@ -67,13 +67,13 @@
     font-size: 165% !important;
   }
   #header .row .columns nav ul.header_right li a:hover {
-    color: #00b5ad;
+    color: $color_green;
   }
 
   #footer {
    text-align: center;
    height: 280px !important;
-   background-color: #FFF;
+   background-color: $color_white;
   }
   
   #footer p{
@@ -92,7 +92,7 @@
 
   #footer .sns i {
     font-size: 40px;
-    color: #FFFFFF;
+    color: $color_white;
   }
 
   #footer .icon i:hover {
@@ -107,7 +107,7 @@
   
   #footer .nav li a:hover {
     text-decoration: underline;
-    text-decoration-color: #4A4A4A;
+    text-decoration-color: $color_black;
   }
   
   #footer .gsc{
@@ -128,7 +128,7 @@
     width: 440px !important;
   }
   #header .row nav ul.header_left li {
-    background-color: #00b5ad;
+    background-color: $color_green;
   }
       
   #header .row nav ul.header_left li:hover {
@@ -177,13 +177,13 @@
     font-size: 165% !important;
   }
   #header .row .columns nav ul.header_right li a:hover {
-    color: #00b5ad;
+    color: $color_green;
   }
 
   #footer {
    text-align: center;
    height: 280px !important;
-   background-color: #FFF;
+   background-color: $color_white;
   }
   
   #footer p{
@@ -202,7 +202,7 @@
 
   #footer .sns i {
     font-size: 40px;
-    color: #FFFFFF;
+    color: $color_white;
   }
 
   #footer .icon i:hover {
@@ -217,7 +217,7 @@
   
   #footer .nav li a:hover {
     text-decoration: underline;
-    text-decoration-color: #4A4A4A;
+    text-decoration-color: $color_black;
   }
   
   #footer .gsc{
@@ -249,7 +249,7 @@
   
   #footer {
    height: 200px !important;
-   background-color: #FFF;
+   background-color: $color_white;
   }
   
 }
@@ -264,7 +264,7 @@
   }
     #footer {
    height: 350px !important;
-   background-color: #FFF;
+   background-color: $color_white;
   }
 }
 
@@ -275,7 +275,7 @@
   }
    #footer {
    height: 350px !important;
-   background-color: #FFF;
+   background-color: $color_white;
   }
 }
 
@@ -286,7 +286,7 @@
 
   /*----- FONT -----*/
   .topic .image {
-    border-top: solid 4px #00b5ad;
+    border-top: solid 4px $color_green;
   }
 
   .topic .image a {
@@ -432,7 +432,7 @@
 #main #collabo h3  {
   font-size: 130% !important;
   line-height: 5px !important;
-  border-left: 5px solid #00b5ad !important;
+  border-left: 5px solid $color_green !important;
   padding: .75em;
 }
 
@@ -520,7 +520,7 @@
 #main #agreement h3 {
   font-size: 130% !important;
   line-height: 5px !important;
-  border-left: 5px solid #00b5ad !important;
+  border-left: 5px solid $color_green !important;
   padding: .75em; }
 
 #main #agreement ul.list-grid li p strong a {
@@ -583,8 +583,8 @@ ul.list-sitemap li ul li a.pop:after {
 }
 
 .flag {
-    background-color: #00b5ad;
-    color: #fff;
+    background-color: $color_green;
+    color: $color_white;
     padding: 5px 10px;
     position: absolute;
 }
@@ -593,9 +593,9 @@ ul.list-sitemap li ul li a.pop:after {
     /*1920px以下*/
 
 .link-summary a {
-    background-color: #00b5ad;
+    background-color: $color_green;
     border-radius: 2px;
-    color: #fff;
+    color: $color_white;
     float: right;
     font-size: 80%;
     margin: 0 0 20px 0;
@@ -607,9 +607,9 @@ ul.list-sitemap li ul li a.pop:after {
     /*816px以下*/
     
 .link-summary a {
-    background-color: #00b5ad;
+    background-color: $color_green;
     border-radius: 2px;
-    color: #fff;
+    color: $color_white;
     font-size: 100%;
     margin: 15px 0;
     padding: 15px;
@@ -630,7 +630,7 @@ ul.list-sitemap li ul li a.pop:after {
 }
 
 #header .gmenu a {
-    color: #FFF;
+    color: $color_white;
     font-size: 96% !important;
 }
 
@@ -727,8 +727,8 @@ h2.topix-title {
 
 .topixnews-box {
     /*トップページ新着情報のBOXライン*/
-    border: solid 3px #00b5ad;
-    margin-top: 3px;
+    border: solid 3px $color_green;
+    margin-top: -1px;
 }
 
 .topixnews-box p {
@@ -786,7 +786,7 @@ h2.topixnews-title2 {
 }
 
 .categorytitle h2 {
-    color: #FFF;
+    color: $color_white;
     font-size: 160%;
 }
 
@@ -817,7 +817,7 @@ h2.topixnews-title2 {
 
 .list_breadcrumb li a:hover {
     text-decoration: underline;
-    text-decoration-color: #4A4A4A;
+    text-decoration-color: $color_black;
 }
 
 
@@ -833,33 +833,27 @@ h2.topixnews-title2 {
     font-size: 150% !important;
 }
 
-.content-section p {
-    font-size: 95%;
-    line-height: 1.6em !important;
-}
-
 .list-links a {
-    color: #00b5ad !important;
+    color: $color_green !important;
 }
 
 
 /*コンテンツトップページ　レイアウト*/
 
-/*コンテンツページ　トピックス*/
+/*コンテンツページ　トピックス リンク*/
 
 .content-topix p {
-    margin: 5px 0 0 0;
+    color: $color_green;
+    font-weight: bold;
     background-image: url(./images/link_arrow.png);
-    background-size: 20px 20px;
+    background-size: 25px 25px;
     background-repeat: no-repeat;
     padding: 0 0 0 30px;
-    font-weight: bold;
-    color: $color_green;
 }
 
 /*コンテンツページ　新着情報　ボックス型*/
 .content-news {
-    border: solid 3px #00b5ad;
+    border: solid 3px $color_green;
     margin-top: 3px;
 }
 
@@ -952,7 +946,7 @@ h2.topixnews-title2 {
     font-family: 'メイリオ', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Meiryo, arial, helvetica, clean, 'ＭＳ Ｐゴシック', sans-serif !important;
     font-weight: bold !important;
     font-size: 110% !important;
-    color: #333 !important;
+    color: $color_black !important;
 }
 
 
@@ -1004,7 +998,7 @@ h2.topixnews-title2 {
   }
   
 .paginator a {
-    color: #00b5ad;
+    color: $color_green;
 }
 
 .paginator-box{
@@ -1014,6 +1008,23 @@ h2.topixnews-title2 {
   }
   
 .current{
-    background: #00b5ad;
-    color: white;
+    background: $color_green;
+    color: $color_white;
   }
+  
+  
+.content-section h2 {
+    position: relative;
+    border-top: 4px solid #ccc;
+}
+
+.content-section  h2::after {
+    position: absolute;
+    top: -4px;
+    left: 0;
+    /*z-index: 2;*/
+    content: '';
+    width: 200px;
+    height: 4px;
+    background-color: #00b5ad;
+}
