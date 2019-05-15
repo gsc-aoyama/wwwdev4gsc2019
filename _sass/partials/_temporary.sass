@@ -519,10 +519,10 @@ table
       display: block
       height: 4px
       width: 100%
-      margin-bottom: 2em
+      margin-bottom: 0.5em
     +respond-to("medium-up")
-      margin-top: 2em
-      margin-bottom: 4em
+      margin-top: 0.5em
+      margin-bottom: 0.5em
       width: 50%
       &:nth-child(2n+1)
         clear: both
@@ -581,7 +581,7 @@ table
           width: 100%
           margin-bottom: .5em
           a
-            +sassline(eta, $font_sansserif, 1.0, 0, all)
+            +sassline(eta, $font_sansserif_bold, 1.0, 0, all)
             padding: 1em !important
             &:before
               content: ' '

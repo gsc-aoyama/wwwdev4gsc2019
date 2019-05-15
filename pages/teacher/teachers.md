@@ -10,6 +10,9 @@ sort: 2
 
 <ul class="list-teacher">
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">会田 弘継</span><br><span class="en">Hirotsugu AIDA</span></p>
     <p class="credit"><span>教授</span><br><span>ジャーナリズム / 思想史</span></p>
@@ -19,6 +22,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">岩田 伸人</span><br><span class="en">Nobuto IWATA</span></p>
     <p class="credit"><span>教授</span><br><span>貿易政策 / 国際貿易理論</span></p>
@@ -28,6 +34,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">岡本 真佐子</span><br><span class="en">Masako OKAMOTO</span></p>
     <p class="credit"><span>教授</span><br><span>文化人類学 / 文化政策学</span></p>
@@ -37,6 +46,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">桑島 京子</span><br><span class="en">Kyoko KUWAJIMA</span></p>
     <p class="credit"><span>教授</span><br><span>国際協力論 / 国際開発論 / 社会開発論</span></p>
@@ -47,6 +59,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">幸地 茂</span><br><span class="en">Shigeru KOCHI</span></p>
     <p class="credit"><span>教授</span><br><span>国際関係論 / ラテンアメリカの地域研究</span></p>
@@ -56,6 +71,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">高橋 良輔</span><br><span class="en">Ryosuke TAKAHASHI</span></p>
     <p class="credit"><span>教授</span><br><span>政治理論 / 国際関係論 / 政治社会学</span></p>
@@ -66,6 +84,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">林 拓也</span><br><span class="en">Takuya HAYASHI</span></p>
     <p class="credit"><span>教授</span><br><span>経済史 / 経営史</span></p>
@@ -75,6 +96,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">福島 安紀子</span><br><span class="en">Akiko "Kiki" FUKUSHIMA</span></p>
     <p class="credit"><span>教授</span><br><span>国際関係論</span></p>
@@ -85,6 +109,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">藤原 淳賀</span><br><span class="en">The Revd. Dr. Prof. Atsuyoshi "Atty" FUJIWARA</span></p>
     <p class="credit"><span>教授</span><br><span>キリスト教神学 /倫理学</span></p>
@@ -95,6 +122,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">古橋 大地</span><br><span class="en">Taichi FURUHASHI</span></p>
     <p class="credit"><span>教授</span><br><span>空間情報学 / 地図学</span></p>
@@ -108,6 +138,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">升本 潔</span><br><span class="en">Kiyoshi MASUMOTO</span></p>
     <p class="credit"><span>教授</span><br><span>国際協力 / 環境と開発</span></p>
@@ -118,6 +151,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">樺島 榮一郎</span><br><span class="en">Eiichiro KABASHIMA</span></p>
     <p class="credit"><span>教授</span><br><span>コンテンツ産業論</span></p>
@@ -128,6 +164,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">菊池 尚代</span><br><span class="en">Hisayo KIKUCHI</span></p>
     <p class="credit"><span>教授</span><br><span>メディア論 / 英語教育</span></p>
@@ -138,6 +177,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">小堀 真</span><br><span class="en">Makoto KOBORI</span></p>
     <p class="credit"><span>准教授</span><br><span>宗教社会学 / 社会調査法</span></p>
@@ -147,6 +189,9 @@ sort: 2
   </div>
 </li>
 <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">齋藤 大輔</span><br><span class="en">Daisuke SAITO</span></p>
     <p class="credit"><span>准教授</span><br><span>東南アジア地域研究 / 文化人類学</span></p>
@@ -157,6 +202,9 @@ sort: 2
   </div>
 </li>
  <li>
+ <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
   <div class="text">
     <p class="name"><span class="jp">橋本 彩花</span><br><span class="en">Sayaka HASHIMOTO</span></p>
     <p class="credit"><span>助教</span><br><span>国際比較教育学 / 日本語教育学</span></p>
