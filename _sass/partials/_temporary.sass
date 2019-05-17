@@ -521,10 +521,8 @@ table
       display: block
       height: 4px
       width: 100%
-      margin-bottom: 0.5em
+      margin-top: 5px
     +respond-to("medium-up")
-      margin-top: 0.5em
-      margin-bottom: 0.5em
       width: 50%
       &:nth-child(2n+1)
         clear: both
@@ -532,8 +530,6 @@ table
       &:nth-child(2n)
         padding-left: 15px
     +respond-to("small-only")
-      margin-top: 1em
-      margin-bottom: 2em
       width: 100%
     .photo
       height: 120px
@@ -541,7 +537,8 @@ table
       overflow: hidden
       margin: 0 auto
       border-radius: 200px
-      margin-bottom: 20px
+      margin-top: 5px
+      margin-bottom: 8px
       img
         overflow: hidden
         width: 120px
@@ -549,7 +546,7 @@ table
       p
         &.name
           text-align: center
-          line-height: 1.6
+          line-height: 1
           span
             &.jp
               +sassline(delta, $font_sansserif_bold, 1.0, 0, all)
@@ -560,7 +557,7 @@ table
               text-transform: capitalize
         &.credit
           text-align: center
-          line-height: 1.6
+          line-height: 1
           span
             &:first-child
               +sassline(eta, $font_sansserif_bold, 1.0, 0, all)
@@ -569,15 +566,17 @@ table
               +sassline(eta, $font_sansserif, 1.0, 0, all)
         &.message
           +sassline(eta, $font_sansserif, 1.5, 0, all)
-          margin-top: 1em
           text-align: center
-          padding: 0 1em
+          padding: 0 1em 1em 1em
           strong
             margin-right: 1em
+      .base
+        background-color: #f2fefb
+        height: 100%
       h3
       ul
         +float-list
-        margin-top: 2em
+        margin-top: .5em
         li
           text-align: center
           width: 100%
