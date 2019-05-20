@@ -766,7 +766,7 @@ h2.topixnews-title2 {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 150px;
+    height: 170px;
     margin: 0 calc(50% - 50vw);
     padding: 0 calc(50vw - 50%);
 }
@@ -776,18 +776,61 @@ h2.topixnews-title2 {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 150px;
+    height: 170px;
+    margin: 0 calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%);
+}
+    
+.categorytitle3 {
+    background-image: url(./images/categorytitle3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 170px;
+    margin: 0 calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%);
+}
+    
+.categorytitle4 {
+    background-image: url(./images/categorytitle4.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 170px;
+    margin: 0 calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%);
+}
+    
+.categorytitle5 {
+    background-image: url(./images/categorytitle5.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 170px;
+    margin: 0 calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%);
+}
+    
+.categorytitle6 {
+    background-image: url(./images/categorytitle6.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 170px;
     margin: 0 calc(50% - 50vw);
     padding: 0 calc(50vw - 50%);
 }
 
 .categorytitle_inner {
-    padding: 60px 0 0 20px;
+    padding: 70px 0 0 20px;
 }
 
-.categorytitle h2 {
+.categorytitle_inner h2 {
     color: $color_white;
     font-size: 160%;
+    text-shadow: 
+    black 1px 1px 10px, black -1px 1px 10px,
+    black 1px -1px 10px, black -1px -1px 10px;
 }
 
 
@@ -957,7 +1000,7 @@ h2.topixnews-title2 {
         background: #fffadd;
         font-size: 80% !important;
         line-height: 1.5rem;
-        padding: 15px;
+        padding: 25px;
         width: 100%;
         margin: 0 0 20px 0;
     }
