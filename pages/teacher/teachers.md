@@ -11,7 +11,7 @@ sort: 2
 <ul class="list-teacher">
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_AIDA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -25,7 +25,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_IWATA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -39,7 +39,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_OKAMOTO.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -53,7 +53,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_KUWAJIMA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -68,7 +68,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_KOCHI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -82,7 +82,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_TAKAHASHI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -97,7 +97,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_HAYASHI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -111,7 +111,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_FUKUSHIMA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -126,7 +126,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_FUJIWARA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -141,7 +141,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_FURUHASHI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -159,7 +159,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_MASUMOTO.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -174,7 +174,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_KABASHIMA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -189,7 +189,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_KIKUCHI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -204,7 +204,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_KOBORI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -218,7 +218,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_SAITO.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -233,7 +233,7 @@ sort: 2
 </li>
  <li>
  <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_HASHIMOTO.png" alt="">
 </div>
   <div class="text">
   <div class="base">
