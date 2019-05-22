@@ -75,8 +75,8 @@ TOEIC&#174;やIELTSの試験結果からは、学生の英語力が着実に向�
 ![学部長 升本 潔 教授の写真][image2]
 
 
-[image1]: {{ '/assets/images/interview_img01_752x400.jpg' | relative_url }}
-[image2]: {{ '/assets/images/interview_img02_752x500.jpg' | relative_url }}
-[image3]: {{ '/assets/images/interview_img03_752x500.jpg' | relative_url }}
-[image4]: {{ '/assets/images/interview_img04_752x500.jpg' | relative_url }}
-[image5]: {{ '/assets/images/interview_img06_752x500.jpg' | relative_url }}
+[image1]: {{ '/assets/images/v1/2019/interview_img01_752x400.jpg' | relative_url }}
+[image2]: {{ '/assets/images/v1/2019/interview_img02_752x500.jpg' | relative_url }}
+[image3]: {{ '/assets/images/v1/2019/interview_img03_752x500.jpg' | relative_url }}
+[image4]: {{ '/assets/images/v1/2019/interview_img04_752x500.jpg' | relative_url }}
+[image5]: {{ '/assets/images/v1/2019/interview_img06_752x500.jpg' | relative_url }}
