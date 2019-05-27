@@ -35,6 +35,7 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkegysgggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>    
   </div>
+  <p class="message"><strong>受験生への一言</strong><br />私の専門は国際貿易の研究です。グローバル化の中で、私たち個人も含めて企業のビジネス活動は、国内市場と海外市場の違いを超えて自由に移動できるようになりました。他方、インターネットやデジタル化が広まることで、新しい国際的な問題も発生しています。そんな近未来の社会について、一緒に考えてみませんか。</p>
   </div>
 </li>
 <li>
@@ -49,6 +50,7 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymiygegkggo" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
   </div>
+  <p class="message"><strong>受験生への一言</strong><br />主に文化に関わる分野の授業を担当しています。異文化との出会いは驚きや楽しさ、不安や戸惑いに満ちています。これらを全部面白がることができるような、色々な「力」をこの学部に入って身につけてくれることを期待しています。</p>
   </div>
 </li>
 <li>
@@ -78,6 +80,7 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdygdomggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
   </div>
+  <p class="message"><strong>受験生への一言</strong><br />貧困や環境汚染など世界が抱える諸問題を勉強するにせよ、特定の国が抱える課題を勉強するにせよ、世界の第一線で活躍する人は、複数の専門分野に基づく学際的アプローチを必要とします。本学部では、経済学や社会学など、社会科学の分野に学際的にアプローチしつつ、世界の課題に挑戦するための強固な基盤を提供します。</p>
   </div>
 </li>
 <li>
@@ -107,6 +110,7 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdogkogggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
   </div>
+  <p class="message"><strong>受験生への一言</strong><br />青山学院大学の中で、GSCは地球社会での共生を考えるという高いミッションを持つとともに、キリスト教主義教育を根幹とした本学院の理念に最も近い学部のひとつといえます。まずは東南アジアへの留学を通じて、皆さんを知り、皆さんと繋がる現地の友を作ってください。皆さんのことを想う誰かが世界の中にいて、ともに塩となり、光となることを願っています。</p>
   </div>
 </li>
 <li>
@@ -214,6 +218,8 @@ sort: 2
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymddygysggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
   </div>
+  <p class="message"><strong>受験生への一言</strong><br />多様化する現代社会における「共生」について学び、考え、そして体験する。本学部の留学は、皆さんの世界を大きく広げるきっかけとなるでしょう。地球を舞台に羽ばたく皆さんを応援します。
+</p>
   </div>
 </li>
 <li>
