@@ -40,21 +40,6 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
-</div>
-  <div class="text">
-  <div class="base">
-    <p class="name"><span class="jp">松永 エリック・匡史 </span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
-    <p class="credit"><span>教授</span><br><span>国際経営学 / デジタルトランスフォーメーション / 人材・組織マネジメント / PR戦略論</span></p>
-    <ul>
-      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsokggo" target="_blank">プロフィール・主要研究業績</a></li>
-    </ul>    
-  </div>
-  <p class="message"><strong>受験生への一言</strong><br />20年間ビジネスコンサルタントとして世界を舞台に国際ビジネス、デジタルイノベーションの最先端を走り続けました。デジタルの時代は経済圏をはるかに超えた世界の共生からイノベーションが生み出されます。地球社会共生学部は、教員、生徒、スタッフ、そして留学先の仲間達と壁のない”共生”を体験できる面白い学部です。是非、私達の仲間になりませんか？</p>
-  </div>
-</li>
-<li>
- <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_OKAMOTO.png" alt="">
 </div>
   <div class="text">
@@ -197,9 +182,6 @@ sort: 2
     <p class="credit"><span>教授</span><br><span>空間情報学 / 地図学</span></p>
     <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgsomggy" target="_blank">プロフィール・主要研究業績</a></li>
-      <li><a href="https://www.facebook.com/mapconcierge" target="_blank">Facebook</a></li>
-      <li><a href="https://twitter.com/mapconcierge" target="_blank">Twitter</a></li>
-      <li><a href="https://github.com/mapconcierge" target="_blank">GitHub</a></li>
     </ul>
     </div>
     <p class="message"><strong>受験生への一言</strong><br />「一億総伊能化」というキーワードで、世界中の仲間たちとみんなで世界地図をつくるプロジェクト「オープンストリートマップ」に取り組んでいます。ドローンや人工衛星など最先端の地図づくりの技術と、その情報を社会に役立てる手法の研究をフィールドワークを通して実践しているので、自分たちでつくった地図を片手に世界中を旅したい学生ウェルカムです！</p>
@@ -218,6 +200,21 @@ sort: 2
     </ul>
     </div>
     <p class="message"><strong>受験生への一言</strong><br />この世界は様々な課題が山積する一方、ドキドキするような魅力と大きな可能性に満ちています。本学部でのアジアの実体験や人との出会いは、世界に対する考え方やモノの見方を大きく変化させるはずです。皆さんの将来に新たな扉を開くお手伝いができればと思います。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">松永 エリック・匡史 </span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
+    <p class="credit"><span>教授</span><br><span>国際経営学 / デジタルトランスフォーメーション / 人材・組織マネジメント / PR戦略論</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsokggo" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />20年間ビジネスコンサルタントとして世界を舞台に国際ビジネス、デジタルイノベーションの最先端を走り続けました。デジタルの時代は経済圏をはるかに超えた世界の共生からイノベーションが生み出されます。地球社会共生学部は、教員、生徒、スタッフ、そして留学先の仲間達と壁のない”共生”を体験できる面白い学部です。是非、私達の仲間になりませんか？</p>
   </div>
 </li>
 <li>
