@@ -40,6 +40,21 @@ sort: 2
 </li>
 <li>
  <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">松永 エリック・匡史 </span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
+    <p class="credit"><span>教授</span><br><span>国際経営学 / デジタルトランスフォーメーション / 人材・組織マネジメント / PR戦略論</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsokggo" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />20年間ビジネスコンサルタントとして世界を舞台に国際ビジネス、デジタルイノベーションの最先端を走り続けました。デジタルの時代は経済圏をはるかに超えた世界の共生からイノベーションが生み出されます。地球社会共生学部は、教員、生徒、スタッフ、そして留学先の仲間達と壁のない”共生”を体験できる面白い学部です。是非、私達の仲間になりませんか？</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_OKAMOTO.png" alt="">
 </div>
   <div class="text">
@@ -55,13 +70,42 @@ sort: 2
 </li>
 <li>
  <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_KABASHIMA.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">樺島 榮一郎</span><br><span class="en">Eiichiro KABASHIMA</span></p>
+    <p class="credit"><span>教授</span><br><span>コンテンツ産業論</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdggeyoggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
+    </div>
+    <p class="message"><strong>受験生への一言</strong><br />僕の専門はメディア研究です。現在、インターネットがメディアの世界だけでなく、国家や世界のあり方も変えつつあります。個人に着目しても、人生とは結局、体験＝情報ですから、衣食住足りた人々が増加するこれからの社会で、メディアや情報がさらに重要になることは疑いありません。そんなメディアを一緒に考えてみませんか。</p>
+  </div>
+<li>
+ <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_KIKUCHI.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">菊池 尚代</span><br><span class="en">Hisayo KIKUCHI</span></p>
+    <p class="credit"><span>教授</span><br><span>メディア論 / 英語教育</span></p>
+    <ul>
+      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymisgkykggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
+    </div>
+    <p class="message"><strong>受験生への一言</strong><br />私の専門は「ことば」です。私たちの生活に当然のように存在する「ことば」ですが、話し手、聞き手の理解は必ずしも同じとは限りません。例えば英語の広告メッセージや映画タイトルは文化や国によってどう変化しているでしょう。メディアの発展や共通語としての英語の普及に伴ってさらに高まる「ことば」の不思議を一緒に解明しませんか。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_KUWAJIMA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
     <p class="name"><span class="jp">桑島 京子</span><br><span class="en">Kyoko KUWAJIMA</span></p>
     <p class="credit"><span>教授</span><br><span>国際協力論 / 国際開発論 / 社会開発論</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkdgssgggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
@@ -91,7 +135,7 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">高橋 良輔</span><br><span class="en">Ryosuke TAKAHASHI</span></p>
     <p class="credit"><span>教授</span><br><span>政治理論 / 国際関係論 / 政治社会学</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdegyokggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
@@ -121,7 +165,7 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">福島 安紀子</span><br><span class="en">Akiko "Kiki" FUKUSHIMA</span></p>
     <p class="credit"><span>教授</span><br><span>国際関係論</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkyygokggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
@@ -136,7 +180,7 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">藤原 淳賀</span><br><span class="en">The Revd. Dr. Prof. Atsuyoshi "Atty" FUJIWARA</span></p>
     <p class="credit"><span>教授</span><br><span>キリスト教神学 /倫理学</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymikgoobggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
@@ -151,7 +195,7 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">古橋 大地</span><br><span class="en">Taichi FURUHASHI</span></p>
     <p class="credit"><span>教授</span><br><span>空間情報学 / 地図学</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgsomggy" target="_blank">プロフィール・主要研究業績</a></li>
       <li><a href="https://www.facebook.com/mapconcierge" target="_blank">Facebook</a></li>
       <li><a href="https://twitter.com/mapconcierge" target="_blank">Twitter</a></li>
@@ -169,7 +213,7 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">升本 潔</span><br><span class="en">Kiyoshi MASUMOTO</span></p>
     <p class="credit"><span>教授</span><br><span>国際協力 / 環境と開発</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkbyyokggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
@@ -178,32 +222,32 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_KABASHIMA.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">樺島 榮一郎</span><br><span class="en">Eiichiro KABASHIMA</span></p>
-    <p class="credit"><span>教授</span><br><span>コンテンツ産業論</span></p>
-        <ul>
-      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdggeyoggy" target="_blank">プロフィール・主要研究業績</a></li>
-    </ul>
-    </div>
-    <p class="message"><strong>受験生への一言</strong><br />僕の専門はメディア研究です。現在、インターネットがメディアの世界だけでなく、国家や世界のあり方も変えつつあります。個人に着目しても、人生とは結局、体験＝情報ですから、衣食住足りた人々が増加するこれからの社会で、メディアや情報がさらに重要になることは疑いありません。そんなメディアを一緒に考えてみませんか。</p>
+    <p class="name"><span class="jp">村上 広史</span><br><span class="en">MURAKAMI Hiroshi</span></p>
+    <p class="credit"><span>教授</span><br><span>写真測量学 / 地理空間情報学 / リモートセンシング / 地理情報システム（GIS)</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkbgyogggo" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />三次元空間に生きる私たちが、互いに賢く「共生」するためには、場所の情報を適切に活用する必要があります。災害や犯罪の起きやすさ、生活のしやすさなどは、場所によって全く異なるからです。場所の情報（空間情報）の活用の仕方や意味を一緒に学んで、賢く共生できる地球人を目指しませんか？</p>
   </div>
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_KIKUCHI.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">菊池 尚代</span><br><span class="en">Hisayo KIKUCHI</span></p>
-    <p class="credit"><span>教授</span><br><span>メディア論 / 英語教育</span></p>
-        <ul>
-      <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymisgkykggy" target="_blank">プロフィール・主要研究業績</a></li>
-    </ul>
-    </div>
-    <p class="message"><strong>受験生への一言</strong><br />私の専門は「ことば」です。私たちの生活に当然のように存在する「ことば」ですが、話し手、聞き手の理解は必ずしも同じとは限りません。例えば英語の広告メッセージや映画タイトルは文化や国によってどう変化しているでしょう。メディアの発展や共通語としての英語の普及に伴ってさらに高まる「ことば」の不思議を一緒に解明しませんか。</p>
+    <p class="name"><span class="jp">山下 隆之</span><br><span class="en">YAMASHITA Takayuki</span></p>
+    <p class="credit"><span>教授</span><br><span>ミクロ経済学 / システム・ダイナミクス</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymiogeodggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />地球社会が抱える諸課題の根底には、しばしば経済問題が潜んでいます。少子高齢社会の到来が経済成長へ与える影響、人口減少が地域経済の企業間競争に与える影響、新規産業の展開の遅れによる産業空洞化など、日米欧の先進国が直面している問題を研究しています。</p>
   </div>
 </li>
 <li>
@@ -230,11 +274,56 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">齋藤 大輔</span><br><span class="en">Daisuke SAITO</span></p>
     <p class="credit"><span>准教授</span><br><span>東南アジア地域研究 / 文化人類学</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdigyygggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
     <p class="message"><strong>受験生への一言</strong><br />現在、日本では多くの東南アジアからの観光客を目にするようになっています。しかし、欧米と比較するとまだまだ「遠い」存在でもあると感じています。グローバルな世界の中で生きる私たちに必要なことの一つは、グローバル＝欧米だけではなく、他の地域にも目を向ける視点と知識を養うことではないでしょうか。私は東南アジアという地域を中心に共に考えていけたらと思います。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">咲川 可央子</span><br><span class="en">SAKIKAWA Kaoko</span></p>
+    <p class="credit"><span>准教授</span><br><span>経済学 / 開発経済学 / ラテンアメリカ地域研究 / メキシコ経済</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdsyogeggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />開発経済学を、1. 経済学の理論、2. 実証、3. 地域・国の特色という3本柱をたてて研究してきました。学生時代には、グアテマラ農村でのNGO活動、メキシコ留学の経験があります。若さとは武器です！やりたいと思ったことには積極的にアプローチしてみてください。活動を通じて、良き友人や師と出会えるといいですね。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">申 在烈</span><br><span class="en">SHIN Jae Youl</span></p>
+    <p class="credit"><span>助教</span><br><span>社会学 / 社会福祉学 / 政治学 / 応用経済学</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbegoodggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />私は社会学者として「不平等のメカニズム」と「不平等に対する人々の態度」を研究しています。不平等は個人の経済的な困窮はもとより、社会の安定、健康なコミュニティの維持など、私たちの日常生活に多大な影響を与えます。社会学の視座から不平等のメカニズムを勉強しながら、「共生」の意味を一緒に考えましょう。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">髙田 百合奈</span><br><span class="en">TAKATA Yurina</span></p>
+    <p class="credit"><span>助教</span><br><span>情報デザイン / webシステム / 地理情報システム / 可視化</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbbgbgsggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  <p class="message"><strong>受験生への一言</strong><br />まだ自分のやりたいことや将来の目標が定まっていない人もいるのではないでしょうか。皆さんが自分の好きなことに出会えるように、私は地図や地球儀をベースとしたツールを使って、世界を知る、世界に羽ばたく、世界の人々と共生するためのサポートをします。そこから自分の好きなことに出会えたらチャンスです。それに向かって是非チャレンジしてみてください。</p>
   </div>
 </li>
  <li>
@@ -245,11 +334,10 @@ sort: 2
   <div class="base">
     <p class="name"><span class="jp">橋本 彩花</span><br><span class="en">Sayaka HASHIMOTO</span></p>
     <p class="credit"><span>助教</span><br><span>国際比較教育学 / 日本語教育学</span></p>
-        <ul>
+    <ul>
       <li><a href="http://raweb.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbsgdyoggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
     </div>
     <p class="message"><strong>受験生への一言</strong><br />多様化する現代社会における「共生」について学び、考え、そして体験する。本学部の留学は、皆さんの世界を大きく広げるきっかけとなるでしょう。地球を舞台に羽ばたく皆さんを応援します。</p>
   </div>
   </li>
-</ul>
