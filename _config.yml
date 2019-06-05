@@ -27,6 +27,7 @@ github_username:  jekyll
 
 header_pages:
   - pages/introduction/index.md
+  - pages/curriculum/index.md
   - pages/teacher/index.md
   - pages/campus/index.md
   - pages/studyabroad/index.md

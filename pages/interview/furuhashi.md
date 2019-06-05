@@ -38,7 +38,7 @@ category: teacher
 *   [古橋大地教授が日本の副代表を務めるプロジェクトが「2014年度グッドデザイン賞」を受賞][link2]
 
 
-[link1]: {{ '/introduction/curriculum/#media' | relative_url }}
+[link1]: {{ '/curriculum/#media' | relative_url }}
 [link2]: {{ '/news/2014/391.html' | relative_url }}
 
 [image1]: {{ '/assets/images/v1/2015/03/bg03_interview_img01-300x143.png' | relative_url }}

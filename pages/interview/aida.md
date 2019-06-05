@@ -34,7 +34,7 @@ category: teacher
 
 ![会田 弘継の写真][image4]{:.right}事実は、決してバラバラに存在しているのではありません。一つひとつの事実はつながっています。しかし、事実に立ち向かう私たち自身が、その事実をプロットするための「見取り図」を持たなければ、事実は断片のままであり、核心は見えてこない。今世界で起きていることを知り、その本質をつかむには、私たちがどういう時代に生き、それをどうとらえるのか、時代観と自らの思想が必要なのです。目前の事実の背後にあるものに突き進む、広い視野と思考力を、授業を通じて養ってください。私がジャーナリストとしての30年で学んできたことのすべてを伝えたいと思います。
 
-[link1]: {{ '/introduction/curriculum/#media' | relative_url }}
+[link1]: {{ '/curriculum/#media' | relative_url }}
 
 [image1]: {{ '/assets/images/v1/2015/03/bg02_interview_img01-300x143.png' | relative_url }}
 [image2]: {{ '/assets/images/v1/2015/03/bg02_interview_img02-300x185.png' | relative_url }}

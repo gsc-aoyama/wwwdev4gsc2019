@@ -400,6 +400,7 @@
 }
 
 #aside .introduction li.campus,
+#aside .curriculum li.campus,
 #aside .teacher li.campus,
 #aside .studyabroad li.campus,
 #aside .career li.campus,
@@ -813,6 +814,16 @@ h2.topixnews-title2 {
     
 .categorytitle6 {
     background-image: url(./images/categorytitle6.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 170px;
+    margin: 0 calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%);
+}
+
+.categorytitle7 {
+    background-image: url(./images/categorytitle7.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
