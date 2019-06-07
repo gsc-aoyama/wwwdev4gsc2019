@@ -62,7 +62,7 @@ sort: 2
       <p>農科大学を前身とするタイの名門国立大学で、2018年には創立75周年を迎えました。13学部、3つのキャンパスを有する総合大学です。留学先はメインキャンパスのバンケンキャンパスで、とても広大な緑豊かなキャンパスです。</p>
     </li>
     <li>
-      <p><strong><a href="http://www.mahidol.ac.th/en/index.html" target="_blank" class="thailand">マヒドン大学</a></strong></p>
+      <p><strong><a href="https://mahidol.ac.th/" target="_blank" class="thailand">マヒドン大学</a></strong></p>
       <p><img src="{{ '/assets/images/v1/2019/studyabroad04_mahidol.jpg' | relative_url }}" alt="マヒドン大学"></p>
 
       <p>1888年創立のシリラート病院内にタイで初めて設立された医学学校が起源で、1943年に正式に医学系の大学となりました。現在の名称「マヒドン大学」と呼ばれるようになったのは1969年です。医学系においてトップに位置し、今では医学部以外にも健康科学、工学、社会科学、経営学等のさまざまな分野を持つ総合大学となりました。</p>
