@@ -144,6 +144,20 @@ sort: 2
 </li>
 <li>
  <div class="photo">
+<img src="../../assets/images/v1/2019/teacher_HARA.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">原 晋</span><br><span class="en">HARA Susumu</span></p>
+    <p class="credit"><span>教授</span><br><span>組織マネジメント / リーダーシップ / スポーツビジネス / スポーツふるさと創生</span></p>
+    <ul>
+      <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsgbggo" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>    
+  </div>
+  </div>
+</li>
+<li>
+ <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_FUKUSHIMA.png" alt="">
 </div>
   <div class="text">
@@ -204,11 +218,11 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_MATSUNAGA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">松永 エリック・匡史 </span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
+    <p class="name"><span class="jp">松永 エリック・匡史</span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
     <p class="credit"><span>教授</span><br><span>国際経営学 / デジタルトランスフォーメーション / 人材・組織マネジメント / PR戦略論</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsokggo" target="_blank">プロフィール・主要研究業績</a></li>
@@ -219,7 +233,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_MURAKAMI.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -234,7 +248,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_YAMASHITA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -280,7 +294,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_SAKIKAWA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -295,7 +309,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_SHIN.png" alt="">
 </div>
   <div class="text">
   <div class="base">
@@ -310,7 +324,7 @@ sort: 2
 </li>
 <li>
  <div class="photo">
-<img src="../../assets/images/v1/2019/teacher_placeholder.png" alt="">
+<img src="../../assets/images/v1/2019/teacher_TAKATA.png" alt="">
 </div>
   <div class="text">
   <div class="base">
