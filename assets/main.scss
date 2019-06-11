@@ -418,6 +418,9 @@
   text-decoration: underline !important;
 }
 
+#main .columns p a:hover {
+  text-decoration: underline !important; }
+
 /*----- TEACHER/TEACHERS -----*/
 
 #main ul.list-teacher li .text ul li a[target*="_blank"]:after {
@@ -440,7 +443,6 @@
 .content-section .row .columns ul.list-links li {
   height: 5em !important;
 }
-
 
 /*----- TEACHER/PUBLICATIONS -----*/
 #main ul.oneline li a[target*="_blank"]:after {
@@ -551,7 +553,6 @@
 
 #main #agreement ul.list-grid li p strong a:hover {
   text-decoration: underline !important; }
-
 
 /*----- GENERAL/SITEMAP -----*/
 ul.list-sitemap li a.pop:after,
