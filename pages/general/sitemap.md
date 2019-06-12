@@ -8,15 +8,16 @@ sort: 3
 
 {:.list-sitemap}
 *   [学部紹介][introduction]
-    *   [学部長インタビュー][introduction/interview]
     *   [地球社会共生学部とは][introduction/outline]
     *   [3つのポリシー][introduction/policy]
-    *   [カリキュラム][introduction/curriculum]
+    *   [学部長インタビュー][introduction/interview]
 *   [入試情報][exam]
 *   [教員紹介][teacher]
     *   [教員一覧][teacher/teachers]
     *   [教員インタビュー][teacher/interview]
     *   [刊行物][teacher/publications]
+*   [カリキュラム][curriculum]
+    *   [英語教育][curriculum/english]
 *   [学生生活][campus]
     *   <a href="http://www.aoyama.ac.jp/life/expenses/" target="_blank" class="pop">学費について</a>
     *   <a href="http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara/" target="_blank" class="pop">学生寮について</a>
@@ -46,12 +47,13 @@ sort: 3
 [introduction/interview]: {{ '/introduction/interview/' | relative_url }}
 [introduction/outline]: {{ '/introduction/outline/' | relative_url }}
 [introduction/policy]: {{ '/introduction/policy/' | relative_url }}
-[introduction/curriculum]: {{ '/curriculum/' | relative_url }}
 [exam]: {{ '/exam/' | relative_url }}
 [teacher]: {{ '/teacher/' | relative_url }}
 [teacher/teachers]: {{ '/teacher/teachers/' | relative_url }}
 [teacher/interview]: {{ '/teacher/interview/' | relative_url }}
 [teacher/publications]: {{ '/teacher/publications/' | relative_url }}
+[curriculum]: {{ '/curriculum/' | relative_url }}
+[curriculum/english]: {{ '/curriculum/english/' | relative_url }}
 [campus]: {{ '/campus/' | relative_url }}
 [studyabroad]: {{ '/studyabroad/' | relative_url }}
 [studyabroad/studyabroad]: {{ '/studyabroad/studyabroad/' | relative_url }}

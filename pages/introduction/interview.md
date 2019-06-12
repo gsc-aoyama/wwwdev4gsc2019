@@ -4,7 +4,7 @@ title: 学部長インタビュー
 lead: 
 permalink: /introduction/interview/
 category: introduction
-sort: 2
+sort: 3
 ---
 {:.hook-card}
 ![学部長 升本 潔 教授の写真][image3]{:.hook-image}
