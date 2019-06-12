@@ -568,12 +568,14 @@ table
               margin-right: .75em
             &:nth-child(3)
               +sassline(eta, $font_sansserif, 1.0, 0, all)
-        &.message
+        &.message-title
           +sassline(eta, $font_sansserif, 1.5, 0, all)
           text-align: center
-          padding: 0 1em 1em 1em
+          padding: 0 1em 0 1em
           strong
             margin-right: 1em
+        &.message
+          +sassline(eta, $font_sansserif, 1.5, 0, all)
       .base
         background-color: #dafaf2
         height: 100%
