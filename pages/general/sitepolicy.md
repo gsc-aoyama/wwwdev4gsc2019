@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_general
 title: このサイトについて
 permalink: /general/sitepolicy/
 category: general

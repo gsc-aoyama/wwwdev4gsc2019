@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_general
 title: サイトマップ
 permalink: /general/sitemap/
 category: general

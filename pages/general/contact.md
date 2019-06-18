@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_general
 title: お問い合わせ
 permalink: /general/contact/
 category: general
