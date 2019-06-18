@@ -36,6 +36,7 @@ sort: 3
     
 *   [就職・キャリア][career]
     *   [想定される卒業後の進路][career/course]
+    *   [卒業生インタビュー][career/interview]
 *   [交通アクセス][general/access]
 *   <a href="http://www.aoyama.ac.jp/outline/reference.html" target="_blank" class="pop">資料請求</a>
 *   [このサイトについて][general/sitepolicy]
@@ -62,10 +63,11 @@ sort: 3
 [studyabroad/guideline]: {{ '/studyabroad/guideline/' | relative_url }}
 [studyabroad/faq]: {{ '/studyabroad/faq/' | relative_url }}
 [career]: {{ '/career/' | relative_url }}
+[career/course]: {{ '/career/course/' | relative_url }}
+[career/interview]: {{ '/career/interview/' | relative_url }}
 [career/yahooxgsc]: {{ '/career/yahooxgsc/' | relative_url }}
 [career/future]: {{ '/career/future/' | relative_url }}
 [career/needs]: {{ '/career/needs/' | relative_url }}
-[career/course]: {{ '/career/course/' | relative_url }}
 [international]: {{ '/international/' | relative_url }}
 [international/about-agu]: {{ '/international/about-agu/' | relative_url }}
 [international/about-gsc]: {{ '/international/about-gsc/' | relative_url }}
