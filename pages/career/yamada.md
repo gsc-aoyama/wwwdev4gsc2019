@@ -8,7 +8,7 @@ category: career
 ![卒業生インタビュー山田の写真][image7]{:.hook-image2}
 **山田和哉**  
 北海道・私立札幌日本大学高等学校出身  
-**進学先 Washington University in St・Louis(アメリカ)**  
+**進学先 Washington University in St.Louis(アメリカ)**  
 
 
 {:.interview-faq}
