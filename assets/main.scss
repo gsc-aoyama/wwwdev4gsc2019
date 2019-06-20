@@ -1104,6 +1104,14 @@ h2.topixnews-title2 {
 
 /*--卒業生インタビュー--*/ 
 
-.blocktext
-{ display: inline-block; 
+.blocktext{ 
+    display: inline-block; 
+}
+
+/*--ハンバーガーメニュー スクロールー--*/ 
+
+.m-hamburger_content{ 
+    overflow-y: scroll;
+    height:100%;
+    -webkit-overflow-scrolling: touch;
 }
