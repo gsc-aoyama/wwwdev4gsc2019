@@ -30,7 +30,6 @@ sort: 3
 *   [留学][studyabroad]
     *   [留学制度][studyabroad/studyabroad]
     *   [留学生活][studyabroad/life]
-    *   [レポート][studyabroad/report]
     *   [留学派遣の継続・中止・途中帰国ガイドライン][studyabroad/guideline]
     *   [よくあるご質問(FAQ)][studyabroad/faq]
     
@@ -59,7 +58,6 @@ sort: 3
 [studyabroad]: {{ '/studyabroad/' | relative_url }}
 [studyabroad/studyabroad]: {{ '/studyabroad/studyabroad/' | relative_url }}
 [studyabroad/life]: {{ '/studyabroad/life/' | relative_url }}
-[studyabroad/report]: {{ '/studyabroad/report/' | relative_url }}
 [studyabroad/guideline]: {{ '/studyabroad/guideline/' | relative_url }}
 [studyabroad/faq]: {{ '/studyabroad/faq/' | relative_url }}
 [career]: {{ '/career/' | relative_url }}
