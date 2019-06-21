@@ -921,9 +921,9 @@ h2.topixnews-title2 {
 
 /*PC以外トップページコンテンツの並び順指定*/
 
-@media screen and (max-width: 51em) {
+@media screen and (max-width: 40em) {
 
-    /*816px以下*/
+    /*640px以下*/
     .row {
         display: flex;
         flex-direction: column;
