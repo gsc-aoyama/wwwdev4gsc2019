@@ -1048,6 +1048,12 @@ h2.topixnews-title2 {
         width: 100%;
         padding: 15px;
     }
+
+    .m-hamburger_content{     /*--ハンバーガーメニュー スクロールー--*/ 
+        overflow-y: scroll;
+        height:100%;
+        -webkit-overflow-scrolling: touch;
+    }
 }
 
 /*--学部ニュースアーカイブ--*/
@@ -1106,12 +1112,4 @@ h2.topixnews-title2 {
 
 .blocktext{ 
     display: inline-block; 
-}
-
-/*--ハンバーガーメニュー スクロールー--*/ 
-
-.m-hamburger_content{ 
-    overflow-y: scroll;
-    height:100%;
-    -webkit-overflow-scrolling: touch;
 }
