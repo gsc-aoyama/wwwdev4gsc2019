@@ -30,8 +30,9 @@ sort: 3
 *   [留学][studyabroad]
     *   [留学制度][studyabroad/studyabroad]
     *   [留学生活][studyabroad/life]
-    *   [留学派遣の継続・中止・途中帰国ガイドライン][studyabroad/guideline]
     *   [よくあるご質問(FAQ)][studyabroad/faq]
+    *   [留学派遣の継続・中止・途中帰国ガイドライン][studyabroad/guideline]
+    *   [留学制度についての注意事項][studyabroad/notice]
     
 *   [就職・キャリア][career]
     *   [想定される卒業後の進路][career/course]
@@ -60,6 +61,7 @@ sort: 3
 [studyabroad/life]: {{ '/studyabroad/life/' | relative_url }}
 [studyabroad/guideline]: {{ '/studyabroad/guideline/' | relative_url }}
 [studyabroad/faq]: {{ '/studyabroad/faq/' | relative_url }}
+[studyabroad/notice]: {{ '/studyabroad/notice/' | relative_url }}
 [career]: {{ '/career/' | relative_url }}
 [career/course]: {{ '/career/course/' | relative_url }}
 [career/interview]: {{ '/career/interview/' | relative_url }}
