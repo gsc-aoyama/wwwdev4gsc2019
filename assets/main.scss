@@ -1048,12 +1048,6 @@ h2.topixnews-title2 {
         width: 100%;
         padding: 15px;
     }
-
-    .m-hamburger_content{     /*--ハンバーガーメニュー スクロールー--*/ 
-        overflow-y: scroll;
-        height:100%;
-        -webkit-overflow-scrolling: touch;
-    }
 }
 
 /*--学部ニュースアーカイブ--*/
@@ -1108,8 +1102,20 @@ h2.topixnews-title2 {
     background: #f2f2f2;/*背景色*/;
 }
 
-/*--卒業生インタビュー--*/ 
+/*--テキスト折り返し調整ー--*/ 
 
 .blocktext{ 
     display: inline-block; 
+}
+
+/*ハンバーガーメニュー スクロールー*/
+
+@media screen and (max-width: 40em) {
+
+    /*640px以下*/
+    .m-hamburger_content{     /*--ハンバーガーメニュー スクロールー--*/ 
+        overflow-y: scroll;
+        height:100%;
+        -webkit-overflow-scrolling: touch;
+    }
 }
