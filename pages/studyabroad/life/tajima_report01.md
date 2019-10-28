@@ -34,13 +34,67 @@ category: studyabroad
 {:.interview-caption}
 緑豊かで広大なキャンパスは理想的な環境
 
+{:.box2}
+### 　田島さんの8月の、とある1週間
+<table class="table-report">
+  <tbody>
+    <tr>
+      <th class="time" width="10%">時限</th>
+      <td class="time" width="30%">午前クラス<br>（9:30-12:30）</td>
+      <td class="time" width="30%">午後クラス<br>（13：00-16:00）</td>
+      <td class="time" width="30%">授業後</td>
+    </tr>
+    <tr>
+      <th>月</th>
+      <td>課題</td>
+      <td>買い物<br>公園でランニング</td>
+      <td></td>
+    </tr>
+    <tr class="day">
+      <th>火</th>
+      <td>Communicative Thaifor foreigners</td>
+      <td>Media History</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>水</th>
+      <td>掃除<br>洗濯<br>買い出し</td>
+      <td>友人とナイトマーケットへ</td>
+      <td></td>
+    </tr>
+    <tr class="day">
+      <th>木</th>
+      <td>Introduction to classical music</td>
+      <td>Cross cultural communication</td>
+      <td>留学生対象の<br>オリエンテーション</td>
+    </tr>
+    <tr>
+      <th>金</th>
+      <td>郵便局に行く</td>
+      <td>Man and geography</td>
+      <td>公園でランニング</td>
+    </tr>
+      <tr class="day">
+      <th>土</th>
+      <td>課題</td>
+      <td>課題</td>
+      <td></td>
+    </tr>
+        <tr>
+      <th>日</th>
+      <td>課題</td>
+      <td>友人とディナー</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 {:.interview-faq}
 #### 学習面でのトピックは？
 授業開始から10日ほど経過しました。派遣先のFaculty of Artsでは学部専門科目と一般教養科目から授業を選ぶことができるため、履修登録には悩みましたが、火曜日・木曜日・金曜日の3日間で5つの授業を履修することに決めました。
 <br />
 <br />
 「Communicative Thaifor foreigners」はタイ語の授業で、他学部の留学生とも交流ができるインターナショナルなクラスです。タイ語にはまだ慣れず、難しいですが習得を目標にがんばります。「Media History」は私にとって最も難しい授業です。授業内容の難易度はもちろん、受講人数が5人と少人数なのでディスカッション、ディベート、先生への質問など積極的な発言が多く求められます。5人のうちの2人が英語圏からの留学生なので議論内容が高度になるため、取り残されないように必死です。「Introduction to classical music」は、さまざまな分野のクラシック音楽のビデオクリップを観て、聴いて学ぶ授業なのでとても楽しく学習しています。「Cross cultural communication」では"文化"と"コミュニケーション"をその定義から深掘りして学んでいます。このクラスでは異文化の一例として留学生である私が日本の文化をクラスメートに紹介するという場面が多く、日本文化について改めて考える機会となっています。「Man and geography」は、3年次生向けなので難しいですが、現地の学生たちがサポートしてくれるおかげで理解することができています。
-
 
 {:.interview-faq}
 #### 日本での授業との相違点は？

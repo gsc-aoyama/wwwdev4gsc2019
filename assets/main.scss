@@ -1151,3 +1151,31 @@ h2.topixnews-title2 {
 .interview-caption {
     padding-top: 25px;
 }
+
+.table-report{
+  width:100%;
+  word-wrap : break-word;
+}
+
+.table-report tbody tr th {
+  text-align: center;
+  padding: 5px !important;
+  border: solid 1px #DDDDDD !important;
+}
+
+.table-report tbody tr td {
+  padding: 5px !important;
+  border: solid 1px #DDDDDD !important;
+}
+
+.time{
+  text-align: center;
+  font-weight: bold;
+  background-color: #dafaf2 !important;
+  color: #444 !important;
+}
+
+.day{
+  background-color: #f6f6f6 !important;
+}
+
