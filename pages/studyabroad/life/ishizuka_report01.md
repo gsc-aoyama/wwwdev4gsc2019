@@ -42,6 +42,7 @@ category: studyabroad
 {:.box2}
 ### 　石塚さんの9月の、とある1週間
 
+
 <table class="table-report2">
   <tbody>
     <tr>
@@ -122,6 +123,124 @@ category: studyabroad
       <td>自習</td>
       <td>夕食を学内のカフェテリアで食べて自習</td>
     </tr>
+  </tbody>
+</table>
+
+<table class="table-report2">
+  <tbody>
+  
+    <tr>
+      <th class="time">月曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　自習</li>
+      <li>2時限　自習</li>
+      <li>3時限　自習</li>
+      <li>4時限　自習</li>
+      <li>5時限　自習</li>
+      <li>授業後　日本食レストランで夕食</li>
+      </ul>
+      </td>
+    </tr>
+    
+        <tr>
+      <th class="time">火曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　睡眠</li>
+      <li>2時限　Non-state actors in international relations</li>
+      <li>3時限　Non-state actors in international relations</li>
+      <li>4時限　Sustainable development</li>
+      <li>5時限　Sustainable development</li>
+      <li>授業後　ショッピングモールで買い物をし、夕食は吉野家で牛丼を食べる</li>
+      </ul>
+      </td>
+    </tr>
+    
+            <tr>
+      <th class="time">水曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　睡眠</li>
+      <li>2時限　Introduction to international relations</li>
+      <li>3時限　Introduction to international relations</li>
+      <li>4時限　部屋で休憩</li>
+      <li>5時限　部屋で休憩</li>
+      <li>授業後　留学生とフットサル</li>
+      </ul>
+      </td>
+    </tr>
+    
+            <tr>
+      <th class="time">木曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　自習</li>
+      <li>2時限　自習</li>
+      <li>3時限　自習</li>
+      <li>4時限　自習</li>
+      <li>5時限　自習</li>
+      <li>授業後　夕食を学内のカフェテリアで食べて部屋で休憩</li>
+      </ul>
+      </td>
+    </tr>
+    
+            <tr>
+      <th class="time">金曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　自習</li>
+      <li>2時限　自習</li>
+      <li>3時限　自習</li>
+      <li>4時限　自習</li>
+      <li>5時限　自習</li>
+      <li>授業後　	夕食を学内のカフェテリアで食べて自習</li>
+      </ul>
+      </td>
+    </tr>
+    
+            <tr>
+      <th class="time">土曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　中国人とタイ人の友達と遊園地へ</li>
+      <li>2時限　↓</li>
+      <li>3時限　↓</li>
+      <li>4時限　↓</li>
+      <li>5時限　帰宅</li>
+      <li>授業後　コリアンBBQの食べ放題に。日本人の友達の家でナイトプールに入り、そのまま宿泊し、語り明かす</li>
+      </ul>
+      </td>
+    </tr>
+    
+            <tr>
+      <th class="time">日曜日</th>
+    </tr>
+    <tr>
+      <td>
+      <ul>
+      <li>1時限　睡眠</li>
+      <li>2時限　睡眠</li>
+      <li>3時限　部屋で休憩</li>
+      <li>4時限　部屋で休憩</li>
+      <li>5時限　自習</li>
+      <li>授業後　夕食を学内のカフェテリアで食べて自習</li>
+      </ul>
+      </td>
+    </tr>
+    
   </tbody>
 </table>
 ※マラヤ大学には時間割という概念が存在しないので、青学の時間割を基に大体の時間で作成
