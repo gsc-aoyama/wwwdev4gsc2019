@@ -1200,12 +1200,12 @@ h2.topixnews-title2 {
 }
 
 .pc-dsp { display:block; }
-.sp-dsp { display:none; }
+.mobile-dsp { display:none; }
 
 @media screen and (max-width: 51em) {/*816px以下*/
 
 .pc-dsp { display:none; }
-.sp-dsp { display:block; }
+.mobile-dsp { display:block; }
 
 }
 

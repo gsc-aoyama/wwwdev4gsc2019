@@ -42,7 +42,7 @@ category: studyabroad
 {:.box2}
 ### 　石塚さんの9月の、とある1週間
 
-
+<div class="pc-dsp">
 <table class="table-report2">
   <tbody>
     <tr>
@@ -125,7 +125,8 @@ category: studyabroad
     </tr>
   </tbody>
 </table>
-
+</div>
+<div class="mobile-dsp">
 <table class="table-report2">
   <tbody>
   
@@ -240,9 +241,9 @@ category: studyabroad
       </ul>
       </td>
     </tr>
-    
   </tbody>
 </table>
+</div> 
 ※マラヤ大学には時間割という概念が存在しないので、青学の時間割を基に大体の時間で作成
 
 {:.interview-faq}
