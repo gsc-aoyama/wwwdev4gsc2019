@@ -251,7 +251,7 @@ category: studyabroad
 
 ![マンスリーレポート石塚さんの写真][image2]
 {:.interview-caption}
-10月に「Non-State Actors in International Relations」のe-learning weekでの授業用画面です。指示に従ってこの画面に出ている動画を見たり、記事を読んだりし、最後にクイズに答えました  
+「Non-State Actors in International Relations」のe-learning weekでの授業用画面です。指示に従ってこの画面に出ている動画を見たり、記事を読んだりし、最後にクイズに答えました  
 
 {:.interview-faq}
 #### 生活面でのトピックは？
