@@ -144,7 +144,7 @@ category: studyabroad
       <li>1時限　睡眠</li>
       <li>2時限　Non-state Actors in International Relations (e-learning)</li>
       <li>3時限　Non-state Actors in International Relations (e-learning)</li>
-      <li>4時限　自習</li>
+      <li>4時限　部屋で休憩</li>
       <li>5時限　部屋で休憩</li>
       <li>授業後　フットサルの練習</li>
       </ul>
