@@ -345,6 +345,22 @@ sort: 2
 </li>
 <li>
  <div class="photo">
+<img src="../../assets/images/teacher_placeholder.png" alt="">
+</div>
+  <div class="text">
+  <div class="base">
+    <p class="name"><span class="jp">菅野 美佐子</span><br><span class="en">Misako KANNO</span></p>
+    <p class="credit"><span>助教</span><br><span>文化人類学 / ジェンダー論 / 南アジア地域研究学</span></p>
+    <ul>
+      <li><a href="https://raweb.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgdyiggy" target="_blank">プロフィール・主要研究業績</a></li>
+    </ul>
+    </div>
+    <p class="message-title"><strong>受験生への一言</strong></p>
+    <p class="message">大学という学びの場では、積極的に興味関心を見い出し、それに向かって自ら行動することが大切です。グローバル化が進むこの時代は、自分の常識を超えた未知の経験に触れるチャンスに溢れています。さまざまな価値観や常識をもつ人々と「共に生きる」社会づくりについて、一緒に考え、学んで行きましょう。</p>
+  </div>
+</li>
+<li>
+ <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_SHIN.png" alt="">
 </div>
   <div class="text">
@@ -359,22 +375,6 @@ sort: 2
   <p class="message">私は社会学者として「不平等のメカニズム」と「不平等に対する人々の態度」を研究しています。不平等は個人の経済的な困窮はもとより、社会の安定、健康なコミュニティの維持など、私たちの日常生活に多大な影響を与えます。社会学の視座から不平等のメカニズムを勉強しながら、「共生」の意味を一緒に考えましょう。</p>
   </div>
 </li>
- <li>
- <div class="photo">
-<img src="../../assets/images/teacher_placeholder.png" alt="">
-</div>
-  <div class="text">
-  <div class="base">
-    <p class="name"><span class="jp">菅野 美佐子</span><br><span class="en">Misako KANNO</span></p>
-    <p class="credit"><span>助教</span><br><span>文化人類学 / ジェンダー論 / 南アジア地域研究学</span></p>
-    <ul>
-      <li><a href="https://raweb.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgdyiggy" target="_blank">プロフィール・主要研究業績</a></li>
-    </ul>
-    </div>
-    <p class="message-title"><strong>受験生への一言</strong></p>
-    <p class="message">大学という学びの場では、積極的に興味関心を見い出し、それに向かって自ら行動することが大切です。グローバル化が進むこの時代は、自分の常識を超えた未知の経験に触れるチャンスに溢れています。さまざまな価値観や常識をもつ人々と「共に生きる」社会づくりについて、一緒に考え、学んで行きましょう。</p>
-  </div>
-  </li>
 <li>
  <div class="photo">
 <img src="../../assets/images/v1/2019/teacher_TAKATA.png" alt="">
