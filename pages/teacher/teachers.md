@@ -78,7 +78,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">熊谷 奈緒子</span><br><span class="en">Kumagai Naoko</span></p>
+    <p class="name"><span class="jp">熊谷 奈緒子</span><br><span class="en">Naoko KUMAGAI</span></p>
     <p class="credit"><span>教授</span><br><span>国際関係論 / 国際機構論 / 紛争解決論 / 和解学 / 人権</span></p>
     <ul>
       <li><a href="https://raweb.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdygdgoggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -158,7 +158,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">原 晋</span><br><span class="en">HARA Susumu</span></p>
+    <p class="name"><span class="jp">原 晋</span><br><span class="en">Susumu HARA</span></p>
     <p class="credit"><span>教授</span><br><span>組織マネジメント / リーダーシップ / スポーツビジネス / スポーツふるさと創生</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsgbggo" target="_blank">プロフィール・主要研究業績</a></li>
@@ -236,7 +236,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">松永 エリック・匡史</span><br><span class="en">MATSUNAGA Eric Masanobu</span></p>
+    <p class="name"><span class="jp">松永 エリック・匡史</span><br><span class="en">Eric-Masanobu MATSUNAGA</span></p>
     <p class="credit"><span>教授</span><br><span>国際経営学 / デジタルトランスフォーメーション / 人材・組織マネジメント / PR戦略論</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymidgsokggo" target="_blank">プロフィール・主要研究業績</a></li>
@@ -252,7 +252,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">村上 広史</span><br><span class="en">MURAKAMI Hiroshi</span></p>
+    <p class="name"><span class="jp">村上 広史</span><br><span class="en">Hiroshi MURAKAMI</span></p>
     <p class="credit"><span>教授</span><br><span>写真測量学 / 地理空間情報学 / リモートセンシング / 地理情報システム（GIS)</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymkbgyogggo" target="_blank">プロフィール・主要研究業績</a></li>
@@ -268,7 +268,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">山下 隆之</span><br><span class="en">YAMASHITA Takayuki</span></p>
+    <p class="name"><span class="jp">山下 隆之</span><br><span class="en">Takayuki YAMASHITA</span></p>
     <p class="credit"><span>教授</span><br><span>ミクロ経済学 / システム・ダイナミクス</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymiogeodggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -333,7 +333,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">咲川 可央子</span><br><span class="en">SAKIKAWA Kaoko</span></p>
+    <p class="name"><span class="jp">咲川 可央子</span><br><span class="en">Kaoko SAKIKAWA</span></p>
     <p class="credit"><span>准教授</span><br><span>経済学 / 開発経済学 / ラテンアメリカ地域研究 / メキシコ経済</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdsyogeggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -350,7 +350,7 @@ sort: 2
   <div class="text">
   <div class="base">
     <p class="name"><span class="jp">菅野 美佐子</span><br><span class="en">Misako KANNO</span></p>
-    <p class="credit"><span>助教</span><br><span>文化人類学 / ジェンダー論 / 南アジア地域研究学</span></p>
+    <p class="credit"><span>助教</span><br><span>文化人類学 / ジェンダー論 / 南アジア地域研究</span></p>
     <ul>
       <li><a href="https://raweb.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymdkgdyiggy" target="_blank">プロフィール・主要研究業績</a></li>
     </ul>
@@ -365,7 +365,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">申 在烈</span><br><span class="en">SHIN Jae Youl</span></p>
+    <p class="name"><span class="jp">申 在烈</span><br><span class="en">Jae Youl SHIN</span></p>
     <p class="credit"><span>助教</span><br><span>社会学 / 社会福祉学 / 政治学 / 応用経済学</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbegoodggy" target="_blank">プロフィール・主要研究業績</a></li>
@@ -381,7 +381,7 @@ sort: 2
 </div>
   <div class="text">
   <div class="base">
-    <p class="name"><span class="jp">髙田 百合奈</span><br><span class="en">TAKATA Yurina</span></p>
+    <p class="name"><span class="jp">髙田 百合奈</span><br><span class="en">Yurina TAKATA</span></p>
     <p class="credit"><span>助教</span><br><span>情報デザイン / webシステム / 地理情報システム / 可視化</span></p>
     <ul>
       <li><a href="https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbbgbgsggy" target="_blank">プロフィール・主要研究業績</a></li>
