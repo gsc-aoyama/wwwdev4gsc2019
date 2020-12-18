@@ -35,7 +35,7 @@ sort: 3
 
 {:.list-sitemap}
 * <a href="http://www.aoyama.ac.jp/life/expenses/" target="_blank" class="pop">学費について</a>
-* <a href="http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara/" target="_blank" class="pop">学生寮について</a>
+* <a href="http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html" target="_blank" class="pop">学生寮について</a>
 * <a href="http://www.aoyama.ac.jp/life/expenses/scholarship_prospective/" target="_blank" class="pop">奨学金制度（受験生向け）</a>
 * <a href="http://www.aoyama.ac.jp/life/expenses/scholarship/" target="_blank" class="pop">奨学金制度・経済援助（在学生向け）</a>
 * <a href="http://www.aoyama.ac.jp/life/schooltime/" target="_blank" class="pop">授業・定期試験・学習</a>
